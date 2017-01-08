@@ -1,0 +1,4951 @@
+{
+  "accountsList": [
+    {
+      "id": "afd277ef-f186-4a1c-9688-12768eaeb66f",
+      "type": "Savings Account",
+      "description": "Flexible savings account",
+      "createdAt": "Wed, 14 Dec 2016 04:11:52 GMT",
+      "updatedAt": null,
+      "owner": {
+        "id": "81763a81-71c9-4dcb-aa94-3fb433586076",
+        "createdAt": "Wed, 14 Dec 2016 04:11:52 GMT",
+        "updatedAt": null,
+        "email": "Richard Stallman",
+        "name": "Richard Stallman"
+      },
+      "balance": 374.09,
+      "transactions": [
+        {
+          "id": "71b3d5de-c3b5-4c9d-b8b4-d3d87a57e390",
+          "type": "debit",
+          "timestamp": "2016-12-13T15:07:58.595Z",
+          "currency": "AUD",
+          "amount": 33.57,
+          "balanceBefore": 407.66,
+          "balanceAfter": 374.09
+        },
+        {
+          "id": "5e05b75d-1436-40bd-b995-ff19d7a08c85",
+          "type": "debit",
+          "timestamp": "2016-12-12T10:28:30.424Z",
+          "currency": "AUD",
+          "amount": 14.83,
+          "balanceBefore": 422.49,
+          "balanceAfter": 407.66
+        },
+        {
+          "id": "e27370db-a839-4daf-a932-228fb5409d32",
+          "type": "debit",
+          "timestamp": "2016-12-11T08:36:39.663Z",
+          "currency": "AUD",
+          "amount": 8.32,
+          "balanceBefore": 430.81,
+          "balanceAfter": 422.49
+        },
+        {
+          "id": "de260425-7cbd-4440-a943-192ae8780413",
+          "type": "debit",
+          "timestamp": "2016-12-09T19:42:31.745Z",
+          "currency": "AUD",
+          "amount": 25.05,
+          "balanceBefore": 455.86,
+          "balanceAfter": 430.81
+        },
+        {
+          "id": "412a5966-57e7-4f07-82bb-22cd5e7395df",
+          "type": "debit",
+          "timestamp": "2016-12-09T14:17:52.402Z",
+          "currency": "AUD",
+          "amount": 10.18,
+          "balanceBefore": 466.04,
+          "balanceAfter": 455.86
+        },
+        {
+          "id": "501add32-9076-49e8-9907-6ef73b2194a6",
+          "type": "debit",
+          "timestamp": "2016-12-08T11:51:03.475Z",
+          "currency": "AUD",
+          "amount": 39.97,
+          "balanceBefore": 506.01,
+          "balanceAfter": 466.04
+        },
+        {
+          "id": "9d346af4-cf15-4ceb-b44f-0e1d6e5770b1",
+          "type": "debit",
+          "timestamp": "2016-12-07T07:02:34.983Z",
+          "currency": "AUD",
+          "amount": 10.65,
+          "balanceBefore": 516.66,
+          "balanceAfter": 506.01
+        },
+        {
+          "id": "81b324d0-3b46-4e37-9bdd-4d272a6e77b2",
+          "type": "credit",
+          "timestamp": "2016-12-06T12:34:14.820Z",
+          "currency": "AUD",
+          "amount": 25.02,
+          "balanceBefore": 491.64,
+          "balanceAfter": 516.66
+        },
+        {
+          "id": "8824e3ab-c253-42dd-900b-96f95507208c",
+          "type": "credit",
+          "timestamp": "2016-12-05T07:09:40.409Z",
+          "currency": "AUD",
+          "amount": 38.92,
+          "balanceBefore": 452.72,
+          "balanceAfter": 491.64
+        },
+        {
+          "id": "55bd4810-49ee-4058-8128-94f16fc7c919",
+          "type": "credit",
+          "timestamp": "2016-12-04T09:43:09.481Z",
+          "currency": "AUD",
+          "amount": 55.72,
+          "balanceBefore": 397,
+          "balanceAfter": 452.72
+        },
+        {
+          "id": "6faf5552-6701-43dd-8dbd-6d078509b21c",
+          "type": "credit",
+          "timestamp": "2016-12-03T14:44:21.826Z",
+          "currency": "AUD",
+          "amount": 33.74,
+          "balanceBefore": 363.26,
+          "balanceAfter": 397
+        },
+        {
+          "id": "1e26c788-7a96-4c93-bf82-bdffe7932b2e",
+          "type": "debit",
+          "timestamp": "2016-12-02T12:31:35.531Z",
+          "currency": "AUD",
+          "amount": 30.42,
+          "balanceBefore": 393.68,
+          "balanceAfter": 363.26
+        },
+        {
+          "id": "68298004-114e-485d-8f7b-9ca3afdbe5ef",
+          "type": "debit",
+          "timestamp": "2016-12-01T15:45:02.053Z",
+          "currency": "AUD",
+          "amount": 49.26,
+          "balanceBefore": 442.94,
+          "balanceAfter": 393.68
+        },
+        {
+          "id": "75d1f812-d468-4efa-8b47-8557c12662f7",
+          "type": "credit",
+          "timestamp": "2016-11-30T06:40:19.655Z",
+          "currency": "AUD",
+          "amount": 20.59,
+          "balanceBefore": 422.35,
+          "balanceAfter": 442.94
+        },
+        {
+          "id": "48cc8a53-39ff-41a7-a007-0c333d1bcf56",
+          "type": "credit",
+          "timestamp": "2016-11-29T07:59:44.322Z",
+          "currency": "AUD",
+          "amount": 2.63,
+          "balanceBefore": 419.72,
+          "balanceAfter": 422.35
+        },
+        {
+          "id": "ee6515d4-bccb-43a6-bce6-aee885478826",
+          "type": "debit",
+          "timestamp": "2016-11-28T01:04:10.352Z",
+          "currency": "AUD",
+          "amount": 14.5,
+          "balanceBefore": 434.22,
+          "balanceAfter": 419.72
+        },
+        {
+          "id": "fb93ea7b-eca5-4c68-8d5f-12860d954fec",
+          "type": "credit",
+          "timestamp": "2016-11-27T10:38:18.059Z",
+          "currency": "AUD",
+          "amount": 31.43,
+          "balanceBefore": 402.79,
+          "balanceAfter": 434.22
+        },
+        {
+          "id": "676bc0f9-507b-4525-94db-39b185b44d18",
+          "type": "credit",
+          "timestamp": "2016-11-25T23:16:35.493Z",
+          "currency": "AUD",
+          "amount": 10.63,
+          "balanceBefore": 392.16,
+          "balanceAfter": 402.79
+        },
+        {
+          "id": "3ccbd35a-ebe5-4313-b06c-309f61fdb69a",
+          "type": "credit",
+          "timestamp": "2016-11-25T14:57:09.060Z",
+          "currency": "AUD",
+          "amount": 55.09,
+          "balanceBefore": 337.07,
+          "balanceAfter": 392.16
+        },
+        {
+          "id": "2112c6ea-ea63-4d4d-89dd-385d8b077708",
+          "type": "credit",
+          "timestamp": "2016-11-24T01:59:31.995Z",
+          "currency": "AUD",
+          "amount": 68.66,
+          "balanceBefore": 268.41,
+          "balanceAfter": 337.07
+        },
+        {
+          "id": "cc5c2eeb-8f92-40e7-8d36-af9440c1d4a2",
+          "type": "credit",
+          "timestamp": "2016-11-23T01:32:28.700Z",
+          "currency": "AUD",
+          "amount": 19.26,
+          "balanceBefore": 249.15,
+          "balanceAfter": 268.41
+        },
+        {
+          "id": "90e0408e-2573-4bb5-b976-07e2a88f1572",
+          "type": "debit",
+          "timestamp": "2016-11-21T23:39:39.667Z",
+          "currency": "AUD",
+          "amount": 2.72,
+          "balanceBefore": 251.87,
+          "balanceAfter": 249.15
+        },
+        {
+          "id": "dc4667e0-0aa9-43cc-a621-8e1f72d05679",
+          "type": "debit",
+          "timestamp": "2016-11-21T15:51:07.875Z",
+          "currency": "AUD",
+          "amount": 36.83,
+          "balanceBefore": 288.7,
+          "balanceAfter": 251.87
+        },
+        {
+          "id": "f08d7b13-6c30-4db9-b243-1fa0d2a0206b",
+          "type": "debit",
+          "timestamp": "2016-11-20T05:06:48.836Z",
+          "currency": "AUD",
+          "amount": 43.36,
+          "balanceBefore": 332.06,
+          "balanceAfter": 288.7
+        },
+        {
+          "id": "a1d7711f-03b5-4ccf-9c18-86ebe88160c1",
+          "type": "credit",
+          "timestamp": "2016-11-19T12:09:06.094Z",
+          "currency": "AUD",
+          "amount": 14.54,
+          "balanceBefore": 317.52,
+          "balanceAfter": 332.06
+        },
+        {
+          "id": "7c9eb948-b4a1-4cd2-97d5-e659e87f2800",
+          "type": "credit",
+          "timestamp": "2016-11-18T13:15:20.919Z",
+          "currency": "AUD",
+          "amount": 19.36,
+          "balanceBefore": 298.16,
+          "balanceAfter": 317.52
+        },
+        {
+          "id": "c96df3d4-8278-443f-bf69-94c92d54bc1a",
+          "type": "debit",
+          "timestamp": "2016-11-16T22:24:59.549Z",
+          "currency": "AUD",
+          "amount": 46.41,
+          "balanceBefore": 344.57,
+          "balanceAfter": 298.16
+        },
+        {
+          "id": "2da76666-7444-4a48-b92d-528002be49f6",
+          "type": "debit",
+          "timestamp": "2016-11-16T07:49:46.549Z",
+          "currency": "AUD",
+          "amount": 30.63,
+          "balanceBefore": 375.2,
+          "balanceAfter": 344.57
+        },
+        {
+          "id": "3e431dd4-cf79-4dab-bb12-36eb383e12c4",
+          "type": "debit",
+          "timestamp": "2016-11-14T18:54:16.867Z",
+          "currency": "AUD",
+          "amount": 8.33,
+          "balanceBefore": 383.53,
+          "balanceAfter": 375.2
+        },
+        {
+          "id": "0d2d6a1f-e051-404f-b524-99428681c575",
+          "type": "credit",
+          "timestamp": "2016-11-14T06:31:00.625Z",
+          "currency": "AUD",
+          "amount": 49.55,
+          "balanceBefore": 333.98,
+          "balanceAfter": 383.53
+        },
+        {
+          "id": "76bc005a-29e8-4ff5-a1b9-6d4cea4613e4",
+          "type": "debit",
+          "timestamp": "2016-11-13T02:21:32.807Z",
+          "currency": "AUD",
+          "amount": 34.05,
+          "balanceBefore": 368.03,
+          "balanceAfter": 333.98
+        },
+        {
+          "id": "d5883deb-399f-45b1-b916-851047145297",
+          "type": "credit",
+          "timestamp": "2016-11-12T02:36:44.920Z",
+          "currency": "AUD",
+          "amount": 7.44,
+          "balanceBefore": 360.59,
+          "balanceAfter": 368.03
+        },
+        {
+          "id": "7d881709-6b03-4db3-a31e-1eda2d3d8c32",
+          "type": "debit",
+          "timestamp": "2016-11-11T07:38:57.281Z",
+          "currency": "AUD",
+          "amount": 22.93,
+          "balanceBefore": 383.52,
+          "balanceAfter": 360.59
+        },
+        {
+          "id": "d4d4e20b-7ddf-4158-acc1-cfb1fe71f2ef",
+          "type": "debit",
+          "timestamp": "2016-11-10T13:48:56.719Z",
+          "currency": "AUD",
+          "amount": 32.42,
+          "balanceBefore": 415.94,
+          "balanceAfter": 383.52
+        },
+        {
+          "id": "2eaa5eed-b8ad-42bf-9e82-9bed499d2f23",
+          "type": "credit",
+          "timestamp": "2016-11-09T05:58:13.579Z",
+          "currency": "AUD",
+          "amount": 11.75,
+          "balanceBefore": 404.19,
+          "balanceAfter": 415.94
+        },
+        {
+          "id": "9450429a-2da4-4d0e-9568-682b3565565e",
+          "type": "debit",
+          "timestamp": "2016-11-08T10:55:06.604Z",
+          "currency": "AUD",
+          "amount": 36.74,
+          "balanceBefore": 440.93,
+          "balanceAfter": 404.19
+        },
+        {
+          "id": "a148c47d-7b4f-419f-8e9d-e6d3b79924b8",
+          "type": "debit",
+          "timestamp": "2016-11-07T02:51:17.489Z",
+          "currency": "AUD",
+          "amount": 37.53,
+          "balanceBefore": 478.46,
+          "balanceAfter": 440.93
+        },
+        {
+          "id": "caaa2c88-2830-4e94-bdfb-108590e6ecbd",
+          "type": "debit",
+          "timestamp": "2016-11-05T16:58:20.709Z",
+          "currency": "AUD",
+          "amount": 15.97,
+          "balanceBefore": 494.43,
+          "balanceAfter": 478.46
+        },
+        {
+          "id": "b9af199d-f919-452c-a36d-b2afeac50703",
+          "type": "credit",
+          "timestamp": "2016-11-05T09:26:27.870Z",
+          "currency": "AUD",
+          "amount": 9.56,
+          "balanceBefore": 484.87,
+          "balanceAfter": 494.43
+        },
+        {
+          "id": "f7fb069e-5f6e-4060-8e80-760534001ed5",
+          "type": "credit",
+          "timestamp": "2016-11-03T17:34:20.782Z",
+          "currency": "AUD",
+          "amount": 60.41,
+          "balanceBefore": 424.46,
+          "balanceAfter": 484.87
+        },
+        {
+          "id": "ac7dd6c4-6d7f-4b51-8fb8-0db8dbc3ac62",
+          "type": "debit",
+          "timestamp": "2016-11-03T10:43:16.149Z",
+          "currency": "AUD",
+          "amount": 30.43,
+          "balanceBefore": 454.89,
+          "balanceAfter": 424.46
+        },
+        {
+          "id": "5d5739f9-4519-4269-83a8-fec182f63838",
+          "type": "debit",
+          "timestamp": "2016-11-02T00:15:46.865Z",
+          "currency": "AUD",
+          "amount": 1.43,
+          "balanceBefore": 456.32,
+          "balanceAfter": 454.89
+        },
+        {
+          "id": "8fc5afb3-67d6-4193-8e77-5226f4fbee7f",
+          "type": "debit",
+          "timestamp": "2016-11-01T05:25:39.009Z",
+          "currency": "AUD",
+          "amount": 4.47,
+          "balanceBefore": 460.79,
+          "balanceAfter": 456.32
+        },
+        {
+          "id": "6d843e9b-8ea1-4d7c-b17f-119f40f7154c",
+          "type": "debit",
+          "timestamp": "2016-10-30T19:15:12.686Z",
+          "currency": "AUD",
+          "amount": 43.21,
+          "balanceBefore": 504,
+          "balanceAfter": 460.79
+        },
+        {
+          "id": "448a62ff-c9a1-42c9-b7fa-29a61b9bca02",
+          "type": "debit",
+          "timestamp": "2016-10-30T12:08:26.087Z",
+          "currency": "AUD",
+          "amount": 11.93,
+          "balanceBefore": 515.93,
+          "balanceAfter": 504
+        },
+        {
+          "id": "dd16b4cb-3ec4-4508-8ed2-c52e5d6a40e8",
+          "type": "credit",
+          "timestamp": "2016-10-29T10:27:16.887Z",
+          "currency": "AUD",
+          "amount": 51.7,
+          "balanceBefore": 464.23,
+          "balanceAfter": 515.93
+        },
+        {
+          "id": "68d63bda-6603-4bbe-9f13-da407ec01d53",
+          "type": "credit",
+          "timestamp": "2016-10-28T08:57:42.397Z",
+          "currency": "AUD",
+          "amount": 62.84,
+          "balanceBefore": 401.39,
+          "balanceAfter": 464.23
+        },
+        {
+          "id": "665c4dfb-b739-4682-bcec-d53abdb3f344",
+          "type": "credit",
+          "timestamp": "2016-10-27T13:38:36.905Z",
+          "currency": "AUD",
+          "amount": 48.45,
+          "balanceBefore": 352.94,
+          "balanceAfter": 401.39
+        },
+        {
+          "id": "a7640055-fc17-4c31-8e28-2f51011bbe98",
+          "type": "credit",
+          "timestamp": "2016-10-26T15:20:31.128Z",
+          "currency": "AUD",
+          "amount": 67.49,
+          "balanceBefore": 285.45,
+          "balanceAfter": 352.94
+        },
+        {
+          "id": "bf4d04af-8ab1-446c-9844-4b4c2452e25c",
+          "type": "debit",
+          "timestamp": "2016-10-25T14:32:38.436Z",
+          "currency": "AUD",
+          "amount": 29.09,
+          "balanceBefore": 314.54,
+          "balanceAfter": 285.45
+        },
+        {
+          "id": "385cf4ed-be6e-4858-b1d0-5bcf9064f92f",
+          "type": "debit",
+          "timestamp": "2016-10-24T10:36:58.068Z",
+          "currency": "AUD",
+          "amount": 8.85,
+          "balanceBefore": 323.39,
+          "balanceAfter": 314.54
+        },
+        {
+          "id": "71b48828-f258-457b-8175-27faa88d83e3",
+          "type": "debit",
+          "timestamp": "2016-10-22T23:26:16.899Z",
+          "currency": "AUD",
+          "amount": 41.03,
+          "balanceBefore": 364.42,
+          "balanceAfter": 323.39
+        },
+        {
+          "id": "7d5c61ff-67d9-45e7-8941-77e03be3ee83",
+          "type": "credit",
+          "timestamp": "2016-10-22T04:13:16.734Z",
+          "currency": "AUD",
+          "amount": 63.81,
+          "balanceBefore": 300.61,
+          "balanceAfter": 364.42
+        },
+        {
+          "id": "17a79d19-f23f-40eb-b642-facf5af21771",
+          "type": "credit",
+          "timestamp": "2016-10-20T20:41:37.621Z",
+          "currency": "AUD",
+          "amount": 12.93,
+          "balanceBefore": 287.68,
+          "balanceAfter": 300.61
+        },
+        {
+          "id": "76e3bcba-aa5c-4559-8c39-86ea707686b2",
+          "type": "credit",
+          "timestamp": "2016-10-20T12:57:21.571Z",
+          "currency": "AUD",
+          "amount": 51.39,
+          "balanceBefore": 236.29,
+          "balanceAfter": 287.68
+        },
+        {
+          "id": "edf6d22b-0f9e-4870-90a7-db55bcf41547",
+          "type": "credit",
+          "timestamp": "2016-10-19T01:57:06.768Z",
+          "currency": "AUD",
+          "amount": 67.94,
+          "balanceBefore": 168.35,
+          "balanceAfter": 236.29
+        },
+        {
+          "id": "f8f6d374-55ae-482b-9313-221654b5997b",
+          "type": "credit",
+          "timestamp": "2016-10-18T06:09:26.531Z",
+          "currency": "AUD",
+          "amount": 21.6,
+          "balanceBefore": 146.75,
+          "balanceAfter": 168.35
+        },
+        {
+          "id": "fe02874f-c662-46a7-9b97-4797b8452101",
+          "type": "debit",
+          "timestamp": "2016-10-17T12:20:47.638Z",
+          "currency": "AUD",
+          "amount": 23.83,
+          "balanceBefore": 170.58,
+          "balanceAfter": 146.75
+        },
+        {
+          "id": "aa20e983-6464-484d-a650-dc97f67773f7",
+          "type": "credit",
+          "timestamp": "2016-10-16T05:42:28.637Z",
+          "currency": "AUD",
+          "amount": 49.13,
+          "balanceBefore": 121.45,
+          "balanceAfter": 170.58
+        },
+        {
+          "id": "da0de464-6e43-4f76-92d5-4b864ae13693",
+          "type": "credit",
+          "timestamp": "2016-10-15T05:57:38.455Z",
+          "currency": "AUD",
+          "amount": 7.76,
+          "balanceBefore": 113.69,
+          "balanceAfter": 121.45
+        },
+        {
+          "id": "f1f6cec2-fd94-4f39-9036-579627ff51aa",
+          "type": "debit",
+          "timestamp": "2016-10-14T03:13:06.272Z",
+          "currency": "AUD",
+          "amount": 3.73,
+          "balanceBefore": 117.42,
+          "balanceAfter": 113.69
+        },
+        {
+          "id": "098a8776-8b1e-4304-b698-157d416014fa",
+          "type": "debit",
+          "timestamp": "2016-10-13T13:42:47.666Z",
+          "currency": "AUD",
+          "amount": 45.05,
+          "balanceBefore": 162.47,
+          "balanceAfter": 117.42
+        },
+        {
+          "id": "2752fec9-9a7a-4a89-82f0-b306bff4afc8",
+          "type": "credit",
+          "timestamp": "2016-10-12T05:52:08.653Z",
+          "currency": "AUD",
+          "amount": 52.08,
+          "balanceBefore": 110.39,
+          "balanceAfter": 162.47
+        },
+        {
+          "id": "d547a2a0-c797-40d0-85e0-9c3c38ae5dd8",
+          "type": "credit",
+          "timestamp": "2016-10-11T15:21:56.210Z",
+          "currency": "AUD",
+          "amount": 57.68,
+          "balanceBefore": 52.71,
+          "balanceAfter": 110.39
+        },
+        {
+          "id": "67d13280-42a7-42dd-bd13-ea2e8a8e8672",
+          "type": "debit",
+          "timestamp": "2016-10-09T17:25:20.946Z",
+          "currency": "AUD",
+          "amount": 45.86,
+          "balanceBefore": 98.57,
+          "balanceAfter": 52.71
+        },
+        {
+          "id": "78d148b2-81bc-44a2-a5eb-08fced645955",
+          "type": "credit",
+          "timestamp": "2016-10-08T17:11:46.233Z",
+          "currency": "AUD",
+          "amount": 71.94,
+          "balanceBefore": 26.63,
+          "balanceAfter": 98.57
+        },
+        {
+          "id": "c53e600b-fe0d-4c7a-8f23-2506ad6ab094",
+          "type": "credit",
+          "timestamp": "2016-10-08T01:39:37.879Z",
+          "currency": "AUD",
+          "amount": 34.34,
+          "balanceBefore": -7.71,
+          "balanceAfter": 26.63
+        },
+        {
+          "id": "7d16ccc3-8493-4f08-96e6-5227dc5dd163",
+          "type": "credit",
+          "timestamp": "2016-10-06T18:40:41.554Z",
+          "currency": "AUD",
+          "amount": 8.9,
+          "balanceBefore": -16.61,
+          "balanceAfter": -7.71
+        },
+        {
+          "id": "fc429f16-df07-4b61-a500-1ab81137f121",
+          "type": "debit",
+          "timestamp": "2016-10-06T12:32:13.247Z",
+          "currency": "AUD",
+          "amount": 16.27,
+          "balanceBefore": -0.34,
+          "balanceAfter": -16.61
+        },
+        {
+          "id": "0408193c-aaaf-4c01-a96e-669895c98dec",
+          "type": "debit",
+          "timestamp": "2016-10-05T10:10:57.141Z",
+          "currency": "AUD",
+          "amount": 39.23,
+          "balanceBefore": 38.89,
+          "balanceAfter": -0.34
+        },
+        {
+          "id": "7116e7ef-c175-4da9-86b2-1cb2fd344bbe",
+          "type": "credit",
+          "timestamp": "2016-10-03T18:49:19.825Z",
+          "currency": "AUD",
+          "amount": 38.89,
+          "balanceBefore": 0,
+          "balanceAfter": 38.89
+        },
+        {
+          "id": "32576115-f12d-44fd-b51a-b63847f35ff4",
+          "type": "credit",
+          "timestamp": "2016-10-02T19:53:57.507Z",
+          "currency": "AUD",
+          "amount": 0,
+          "balanceBefore": 0,
+          "balanceAfter": 0
+        }
+      ]
+    },
+    {
+      "id": "03f297c7-2a93-4995-95db-e5aa9103b7ce",
+      "type": "Smart Access Account",
+      "description": "Low fee account for flexible access",
+      "icon": "credit_card",
+      "createdAt": "Wed, 14 Dec 2016 04:11:52 GMT",
+      "updatedAt": null,
+      "owner": {
+        "id": "81763a81-71c9-4dcb-aa94-3fb433586076",
+        "createdAt": "Wed, 14 Dec 2016 04:11:52 GMT",
+        "updatedAt": null,
+        "email": "Richard Stallman",
+        "name": "Richard Stallman"
+      },
+      "balance": 125.16,
+      "transactions": [
+        {
+          "id": "545d8601-26ae-4f67-bc94-ee056a3f56ef",
+          "type": "debit",
+          "timestamp": "2016-12-13T12:40:38.246Z",
+          "currency": "AUD",
+          "amount": 32.04,
+          "balanceBefore": 157.2,
+          "balanceAfter": 125.16
+        },
+        {
+          "id": "10213492-70c2-4c78-b5cf-83db6935f489",
+          "type": "debit",
+          "timestamp": "2016-12-12T08:23:06.137Z",
+          "currency": "AUD",
+          "amount": 6.77,
+          "balanceBefore": 163.97,
+          "balanceAfter": 157.2
+        },
+        {
+          "id": "d53e4141-b45f-4c15-bb98-02ec6620ac26",
+          "type": "credit",
+          "timestamp": "2016-12-11T01:35:02.906Z",
+          "currency": "AUD",
+          "amount": 57.63,
+          "balanceBefore": 106.34,
+          "balanceAfter": 163.97
+        },
+        {
+          "id": "349e1d50-9323-4ae8-8f89-bc40145ce43a",
+          "type": "debit",
+          "timestamp": "2016-12-10T00:09:42.378Z",
+          "currency": "AUD",
+          "amount": 37.82,
+          "balanceBefore": 144.16,
+          "balanceAfter": 106.34
+        },
+        {
+          "id": "455f941f-2f53-4121-992f-0f8b52891ce1",
+          "type": "debit",
+          "timestamp": "2016-12-09T08:47:30.177Z",
+          "currency": "AUD",
+          "amount": 19.59,
+          "balanceBefore": 163.75,
+          "balanceAfter": 144.16
+        },
+        {
+          "id": "f8a2d9e5-e9d7-4cf9-bef5-6d2536645f83",
+          "type": "debit",
+          "timestamp": "2016-12-08T06:59:51.337Z",
+          "currency": "AUD",
+          "amount": 20,
+          "balanceBefore": 183.75,
+          "balanceAfter": 163.75
+        },
+        {
+          "id": "9876d956-11af-444e-a5c7-63e04a09d919",
+          "type": "debit",
+          "timestamp": "2016-12-07T00:38:48.454Z",
+          "currency": "AUD",
+          "amount": 24.93,
+          "balanceBefore": 208.68,
+          "balanceAfter": 183.75
+        },
+        {
+          "id": "c4b4619b-b591-4ba3-b662-909e28105499",
+          "type": "credit",
+          "timestamp": "2016-12-06T05:00:49.742Z",
+          "currency": "AUD",
+          "amount": 53.61,
+          "balanceBefore": 155.07,
+          "balanceAfter": 208.68
+        },
+        {
+          "id": "418c1502-be0f-4474-ba5b-c2d910208fc7",
+          "type": "credit",
+          "timestamp": "2016-12-04T19:19:15.063Z",
+          "currency": "AUD",
+          "amount": 65.25,
+          "balanceBefore": 89.82,
+          "balanceAfter": 155.07
+        },
+        {
+          "id": "3550d149-9fe0-43aa-92cc-a01d2eebcbf3",
+          "type": "debit",
+          "timestamp": "2016-12-03T18:04:08.911Z",
+          "currency": "AUD",
+          "amount": 24.46,
+          "balanceBefore": 114.28,
+          "balanceAfter": 89.82
+        },
+        {
+          "id": "88320460-cab2-4c9d-8141-27cb49b9645a",
+          "type": "credit",
+          "timestamp": "2016-12-02T20:22:04.365Z",
+          "currency": "AUD",
+          "amount": 74.17,
+          "balanceBefore": 40.11,
+          "balanceAfter": 114.28
+        },
+        {
+          "id": "4b8c75dd-0944-4ee7-bc4a-38fa7b198754",
+          "type": "debit",
+          "timestamp": "2016-12-01T20:09:00.377Z",
+          "currency": "AUD",
+          "amount": 3.26,
+          "balanceBefore": 43.37,
+          "balanceAfter": 40.11
+        },
+        {
+          "id": "572c7c9a-5668-4361-92aa-46e73c0ecde9",
+          "type": "credit",
+          "timestamp": "2016-11-30T21:03:13.835Z",
+          "currency": "AUD",
+          "amount": 49.18,
+          "balanceBefore": -5.81,
+          "balanceAfter": 43.37
+        },
+        {
+          "id": "bbe782eb-a0e1-4e63-8aa4-7c5b3e101409",
+          "type": "debit",
+          "timestamp": "2016-11-30T04:40:15.457Z",
+          "currency": "AUD",
+          "amount": 11.9,
+          "balanceBefore": 6.09,
+          "balanceAfter": -5.81
+        },
+        {
+          "id": "01deb5d5-8779-425f-8134-d359e92f95e9",
+          "type": "debit",
+          "timestamp": "2016-11-29T00:15:05.930Z",
+          "currency": "AUD",
+          "amount": 37.79,
+          "balanceBefore": 43.88,
+          "balanceAfter": 6.09
+        },
+        {
+          "id": "d88e9faf-ac7b-435f-b1cc-a3f1716578fc",
+          "type": "credit",
+          "timestamp": "2016-11-27T23:06:25.547Z",
+          "currency": "AUD",
+          "amount": 46.76,
+          "balanceBefore": -2.88,
+          "balanceAfter": 43.88
+        },
+        {
+          "id": "faf0e41a-b20a-4021-bd54-78fdcc69cdf4",
+          "type": "credit",
+          "timestamp": "2016-11-27T03:06:07.836Z",
+          "currency": "AUD",
+          "amount": 12.14,
+          "balanceBefore": -15.02,
+          "balanceAfter": -2.88
+        },
+        {
+          "id": "48485fe8-5595-40c7-afdb-154826bb6a4f",
+          "type": "credit",
+          "timestamp": "2016-11-25T21:28:49.826Z",
+          "currency": "AUD",
+          "amount": 61.51,
+          "balanceBefore": -76.53,
+          "balanceAfter": -15.02
+        },
+        {
+          "id": "f754719a-4d2e-4b98-97cf-ce6795adea01",
+          "type": "debit",
+          "timestamp": "2016-11-25T04:23:03.076Z",
+          "currency": "AUD",
+          "amount": 21.62,
+          "balanceBefore": -54.91,
+          "balanceAfter": -76.53
+        },
+        {
+          "id": "84e02a3e-4557-4e6e-a9a5-bbc2e136067e",
+          "type": "debit",
+          "timestamp": "2016-11-24T01:05:06.635Z",
+          "currency": "AUD",
+          "amount": 14.07,
+          "balanceBefore": -40.84,
+          "balanceAfter": -54.91
+        },
+        {
+          "id": "cf7e7138-49c3-4cbb-bf2e-f203fcad5102",
+          "type": "debit",
+          "timestamp": "2016-11-22T16:39:00.457Z",
+          "currency": "AUD",
+          "amount": 18.65,
+          "balanceBefore": -22.19,
+          "balanceAfter": -40.84
+        },
+        {
+          "id": "e861542d-2ce0-4d4f-ac95-57b45a5dee97",
+          "type": "debit",
+          "timestamp": "2016-11-22T06:28:09.523Z",
+          "currency": "AUD",
+          "amount": 11.69,
+          "balanceBefore": -10.5,
+          "balanceAfter": -22.19
+        },
+        {
+          "id": "921d3cea-3aed-4caa-aabe-f4a98979f8b2",
+          "type": "debit",
+          "timestamp": "2016-11-21T15:53:42.395Z",
+          "currency": "AUD",
+          "amount": 22.19,
+          "balanceBefore": 11.69,
+          "balanceAfter": -10.5
+        },
+        {
+          "id": "ee24c73a-3085-4c60-b5e4-bff94b13d293",
+          "type": "credit",
+          "timestamp": "2016-11-19T21:09:47.394Z",
+          "currency": "AUD",
+          "amount": 11.69,
+          "balanceBefore": 0,
+          "balanceAfter": 11.69
+        },
+        {
+          "id": "801c8b16-b53b-450f-bd9c-27fbddd706f4",
+          "type": "credit",
+          "timestamp": "2016-11-19T09:18:06.020Z",
+          "currency": "AUD",
+          "amount": 0,
+          "balanceBefore": 0,
+          "balanceAfter": 0
+        }
+      ]
+    },
+    {
+      "id": "d7335290-23f9-4bc9-968c-d96ccf03d422",
+      "type": "Visa Debit Account",
+      "description": "Simple visa debit access account",
+      "icon": "credit_card",
+      "createdAt": "Wed, 14 Dec 2016 04:11:52 GMT",
+      "updatedAt": null,
+      "owner": {
+        "id": "81763a81-71c9-4dcb-aa94-3fb433586076",
+        "createdAt": "Wed, 14 Dec 2016 04:11:52 GMT",
+        "updatedAt": null,
+        "email": "Richard Stallman",
+        "name": "Richard Stallman"
+      },
+      "balance": 808.22,
+      "transactions": [
+        {
+          "id": "07fba18f-a6da-435a-8e4c-3309dff5798f",
+          "type": "debit",
+          "timestamp": "2016-12-13T00:51:37.432Z",
+          "currency": "AUD",
+          "amount": 35.36,
+          "balanceBefore": 843.58,
+          "balanceAfter": 808.22
+        },
+        {
+          "id": "cb5afda8-0f87-4b20-b5da-248919c6b322",
+          "type": "credit",
+          "timestamp": "2016-12-11T20:20:56.253Z",
+          "currency": "AUD",
+          "amount": 68.85,
+          "balanceBefore": 774.73,
+          "balanceAfter": 843.58
+        },
+        {
+          "id": "c453b5e4-d03c-4927-b12a-c1afbe11b04b",
+          "type": "debit",
+          "timestamp": "2016-12-11T04:31:06.203Z",
+          "currency": "AUD",
+          "amount": 40.26,
+          "balanceBefore": 814.99,
+          "balanceAfter": 774.73
+        },
+        {
+          "id": "df027245-639f-45a3-9d03-79b3212ecc9f",
+          "type": "debit",
+          "timestamp": "2016-12-09T20:30:21.552Z",
+          "currency": "AUD",
+          "amount": 37.02,
+          "balanceBefore": 852.01,
+          "balanceAfter": 814.99
+        },
+        {
+          "id": "8f669207-4718-4b97-ab7b-e0e79373b315",
+          "type": "debit",
+          "timestamp": "2016-12-09T08:51:12.926Z",
+          "currency": "AUD",
+          "amount": 33.08,
+          "balanceBefore": 885.09,
+          "balanceAfter": 852.01
+        },
+        {
+          "id": "0ae23ba6-acff-4032-8888-0406a76ac82b",
+          "type": "debit",
+          "timestamp": "2016-12-08T08:55:43.488Z",
+          "currency": "AUD",
+          "amount": 23.17,
+          "balanceBefore": 908.26,
+          "balanceAfter": 885.09
+        },
+        {
+          "id": "3fd17fab-d775-458c-92d3-c4414f5c861c",
+          "type": "debit",
+          "timestamp": "2016-12-07T03:47:00.075Z",
+          "currency": "AUD",
+          "amount": 35.36,
+          "balanceBefore": 943.62,
+          "balanceAfter": 908.26
+        },
+        {
+          "id": "9216b6be-064b-4850-9244-8c615eca4fcc",
+          "type": "credit",
+          "timestamp": "2016-12-06T00:40:51.863Z",
+          "currency": "AUD",
+          "amount": 39.42,
+          "balanceBefore": 904.2,
+          "balanceAfter": 943.62
+        },
+        {
+          "id": "131c214a-4f96-4a30-a35d-4902d78ee225",
+          "type": "credit",
+          "timestamp": "2016-12-05T00:56:30.659Z",
+          "currency": "AUD",
+          "amount": 36.55,
+          "balanceBefore": 867.65,
+          "balanceAfter": 904.2
+        },
+        {
+          "id": "d84ddbbe-e244-4b43-8b6f-19ed85d57b29",
+          "type": "credit",
+          "timestamp": "2016-12-03T23:26:20.282Z",
+          "currency": "AUD",
+          "amount": 12.55,
+          "balanceBefore": 855.1,
+          "balanceAfter": 867.65
+        },
+        {
+          "id": "40ce38ef-95ea-460c-94c0-4c9784cd98bc",
+          "type": "debit",
+          "timestamp": "2016-12-03T09:04:35.172Z",
+          "currency": "AUD",
+          "amount": 4.04,
+          "balanceBefore": 859.14,
+          "balanceAfter": 855.1
+        },
+        {
+          "id": "b24f280a-c849-4625-88db-08ef80ed814f",
+          "type": "debit",
+          "timestamp": "2016-12-01T20:24:56.180Z",
+          "currency": "AUD",
+          "amount": 44.61,
+          "balanceBefore": 903.75,
+          "balanceAfter": 859.14
+        },
+        {
+          "id": "c6654ac4-8b09-44cc-b1ce-ba11a11ca802",
+          "type": "credit",
+          "timestamp": "2016-12-01T04:55:13.574Z",
+          "currency": "AUD",
+          "amount": 35.13,
+          "balanceBefore": 868.62,
+          "balanceAfter": 903.75
+        },
+        {
+          "id": "43a81915-434e-4b73-ac52-4a9d8b9618aa",
+          "type": "debit",
+          "timestamp": "2016-11-30T08:25:24.234Z",
+          "currency": "AUD",
+          "amount": 6.07,
+          "balanceBefore": 874.69,
+          "balanceAfter": 868.62
+        },
+        {
+          "id": "9ca8855d-44fc-4e5a-9bd5-aee973c5c755",
+          "type": "credit",
+          "timestamp": "2016-11-29T15:35:00.941Z",
+          "currency": "AUD",
+          "amount": 30.97,
+          "balanceBefore": 843.72,
+          "balanceAfter": 874.69
+        },
+        {
+          "id": "be2b08d4-75d1-4a7e-ab35-bc158fc2a675",
+          "type": "credit",
+          "timestamp": "2016-11-28T12:24:10.366Z",
+          "currency": "AUD",
+          "amount": 17.39,
+          "balanceBefore": 826.33,
+          "balanceAfter": 843.72
+        },
+        {
+          "id": "edc76348-c747-4904-8edc-d834102eb6fc",
+          "type": "credit",
+          "timestamp": "2016-11-27T02:26:01.438Z",
+          "currency": "AUD",
+          "amount": 42.5,
+          "balanceBefore": 783.83,
+          "balanceAfter": 826.33
+        },
+        {
+          "id": "cd72dae2-4bab-4ece-bac7-61784aa16935",
+          "type": "credit",
+          "timestamp": "2016-11-26T01:22:54.731Z",
+          "currency": "AUD",
+          "amount": 36.75,
+          "balanceBefore": 747.08,
+          "balanceAfter": 783.83
+        },
+        {
+          "id": "b2480f0a-4dbe-4b8f-9b9c-7f5f32180bbf",
+          "type": "credit",
+          "timestamp": "2016-11-25T06:06:54.948Z",
+          "currency": "AUD",
+          "amount": 67.79,
+          "balanceBefore": 679.29,
+          "balanceAfter": 747.08
+        },
+        {
+          "id": "f2d49e06-27fb-4394-be81-fc2c9d3c5937",
+          "type": "debit",
+          "timestamp": "2016-11-24T05:18:35.338Z",
+          "currency": "AUD",
+          "amount": 46.72,
+          "balanceBefore": 726.01,
+          "balanceAfter": 679.29
+        },
+        {
+          "id": "b7ba23b8-80db-446f-8cd9-584ebe8fad65",
+          "type": "credit",
+          "timestamp": "2016-11-22T19:54:40.843Z",
+          "currency": "AUD",
+          "amount": 8.23,
+          "balanceBefore": 717.78,
+          "balanceAfter": 726.01
+        },
+        {
+          "id": "351c2449-cd63-4f83-baa1-793bde2a911b",
+          "type": "credit",
+          "timestamp": "2016-11-21T18:31:43.145Z",
+          "currency": "AUD",
+          "amount": 32.2,
+          "balanceBefore": 685.58,
+          "balanceAfter": 717.78
+        },
+        {
+          "id": "a78b91af-6c4d-491e-986f-dee33055127b",
+          "type": "debit",
+          "timestamp": "2016-11-21T14:16:47.236Z",
+          "currency": "AUD",
+          "amount": 7.26,
+          "balanceBefore": 692.84,
+          "balanceAfter": 685.58
+        },
+        {
+          "id": "a4dcfc2e-9628-43e2-91e7-30d41bcd171a",
+          "type": "credit",
+          "timestamp": "2016-11-19T18:53:15.964Z",
+          "currency": "AUD",
+          "amount": 10.96,
+          "balanceBefore": 681.88,
+          "balanceAfter": 692.84
+        },
+        {
+          "id": "09e1e35b-0f65-41fe-abbf-d84b2e6e8c71",
+          "type": "debit",
+          "timestamp": "2016-11-18T17:42:22.696Z",
+          "currency": "AUD",
+          "amount": 19.03,
+          "balanceBefore": 700.91,
+          "balanceAfter": 681.88
+        },
+        {
+          "id": "9c0b1306-4a78-4c32-b816-6104e715779c",
+          "type": "debit",
+          "timestamp": "2016-11-18T08:01:45.306Z",
+          "currency": "AUD",
+          "amount": 25.3,
+          "balanceBefore": 726.21,
+          "balanceAfter": 700.91
+        },
+        {
+          "id": "d21865b8-9070-45ea-81c6-f8448c6a7eb9",
+          "type": "debit",
+          "timestamp": "2016-11-17T11:00:18.759Z",
+          "currency": "AUD",
+          "amount": 14.21,
+          "balanceBefore": 740.42,
+          "balanceAfter": 726.21
+        },
+        {
+          "id": "2a18a37e-9f9a-4e96-a295-693e4f12378d",
+          "type": "credit",
+          "timestamp": "2016-11-16T14:52:10.932Z",
+          "currency": "AUD",
+          "amount": 33.52,
+          "balanceBefore": 706.9,
+          "balanceAfter": 740.42
+        },
+        {
+          "id": "3a53cf2f-ad85-4d2e-ae8d-f86de880937e",
+          "type": "credit",
+          "timestamp": "2016-11-14T16:24:09.458Z",
+          "currency": "AUD",
+          "amount": 12.28,
+          "balanceBefore": 694.62,
+          "balanceAfter": 706.9
+        },
+        {
+          "id": "f912b274-8a23-4c39-a3a8-02e800358453",
+          "type": "credit",
+          "timestamp": "2016-11-14T10:53:12.540Z",
+          "currency": "AUD",
+          "amount": 9.78,
+          "balanceBefore": 684.84,
+          "balanceAfter": 694.62
+        },
+        {
+          "id": "7213973f-9044-427a-a094-98cbd05d0a0b",
+          "type": "credit",
+          "timestamp": "2016-11-13T07:35:17.544Z",
+          "currency": "AUD",
+          "amount": 50.57,
+          "balanceBefore": 634.27,
+          "balanceAfter": 684.84
+        },
+        {
+          "id": "7924766f-551a-47a0-af58-e3ea51e09ff8",
+          "type": "credit",
+          "timestamp": "2016-11-12T01:01:52.058Z",
+          "currency": "AUD",
+          "amount": 69.14,
+          "balanceBefore": 565.13,
+          "balanceAfter": 634.27
+        },
+        {
+          "id": "83476887-36c0-448c-841e-8e3fc2ad2830",
+          "type": "credit",
+          "timestamp": "2016-11-11T14:54:14.716Z",
+          "currency": "AUD",
+          "amount": 37.12,
+          "balanceBefore": 528.01,
+          "balanceAfter": 565.13
+        },
+        {
+          "id": "e2af7aaf-b88b-4010-9cdf-0d8f029feb88",
+          "type": "debit",
+          "timestamp": "2016-11-09T20:43:20.037Z",
+          "currency": "AUD",
+          "amount": 34.13,
+          "balanceBefore": 562.14,
+          "balanceAfter": 528.01
+        },
+        {
+          "id": "2aec5b7b-9903-4532-9be7-2518af5fa38b",
+          "type": "credit",
+          "timestamp": "2016-11-08T23:26:24.994Z",
+          "currency": "AUD",
+          "amount": 34.7,
+          "balanceBefore": 527.44,
+          "balanceAfter": 562.14
+        },
+        {
+          "id": "58c7d1e7-c879-4368-917d-f1823357c00c",
+          "type": "credit",
+          "timestamp": "2016-11-08T15:36:05.582Z",
+          "currency": "AUD",
+          "amount": 11.76,
+          "balanceBefore": 515.68,
+          "balanceAfter": 527.44
+        },
+        {
+          "id": "fcd338b5-6fb3-4623-b1dc-da30c7e407a9",
+          "type": "credit",
+          "timestamp": "2016-11-06T18:11:28.138Z",
+          "currency": "AUD",
+          "amount": 50.52,
+          "balanceBefore": 465.16,
+          "balanceAfter": 515.68
+        },
+        {
+          "id": "cf7d1c63-3c03-4836-9974-779e769d9bb2",
+          "type": "debit",
+          "timestamp": "2016-11-06T06:59:04.169Z",
+          "currency": "AUD",
+          "amount": 8.85,
+          "balanceBefore": 474.01,
+          "balanceAfter": 465.16
+        },
+        {
+          "id": "3a8beb1a-2463-4aae-9f95-b4b51e674e96",
+          "type": "debit",
+          "timestamp": "2016-11-05T12:31:06.163Z",
+          "currency": "AUD",
+          "amount": 45.31,
+          "balanceBefore": 519.32,
+          "balanceAfter": 474.01
+        },
+        {
+          "id": "76ac87e7-0963-46c3-bf13-26290cfbf943",
+          "type": "credit",
+          "timestamp": "2016-11-03T17:28:40.096Z",
+          "currency": "AUD",
+          "amount": 43.25,
+          "balanceBefore": 476.07,
+          "balanceAfter": 519.32
+        },
+        {
+          "id": "f56f6316-3028-40c0-a99f-a0421c18580b",
+          "type": "debit",
+          "timestamp": "2016-11-03T03:03:09.736Z",
+          "currency": "AUD",
+          "amount": 15.48,
+          "balanceBefore": 491.55,
+          "balanceAfter": 476.07
+        },
+        {
+          "id": "1714e2c8-31a6-402c-9831-94492e81e3df",
+          "type": "debit",
+          "timestamp": "2016-11-02T02:17:34.504Z",
+          "currency": "AUD",
+          "amount": 16.58,
+          "balanceBefore": 508.13,
+          "balanceAfter": 491.55
+        },
+        {
+          "id": "e20afe75-ef53-4acf-af0b-4b3959d8bdf4",
+          "type": "debit",
+          "timestamp": "2016-11-01T14:09:14.552Z",
+          "currency": "AUD",
+          "amount": 34.07,
+          "balanceBefore": 542.2,
+          "balanceAfter": 508.13
+        },
+        {
+          "id": "e2f01d74-757e-4fe3-84ea-2e2c34139033",
+          "type": "credit",
+          "timestamp": "2016-10-30T20:17:57.061Z",
+          "currency": "AUD",
+          "amount": 32.13,
+          "balanceBefore": 510.07,
+          "balanceAfter": 542.2
+        },
+        {
+          "id": "c787fbe5-d141-4841-8970-f08dea4e7513",
+          "type": "debit",
+          "timestamp": "2016-10-29T19:11:46.049Z",
+          "currency": "AUD",
+          "amount": 8.33,
+          "balanceBefore": 518.4,
+          "balanceAfter": 510.07
+        },
+        {
+          "id": "f71144db-5f6b-4064-a7bb-2e47fe2ce37c",
+          "type": "debit",
+          "timestamp": "2016-10-29T07:17:21.303Z",
+          "currency": "AUD",
+          "amount": 8.99,
+          "balanceBefore": 527.39,
+          "balanceAfter": 518.4
+        },
+        {
+          "id": "e95cde0c-baf4-4003-8c5f-dacd889c1335",
+          "type": "debit",
+          "timestamp": "2016-10-27T21:12:13.003Z",
+          "currency": "AUD",
+          "amount": 35.89,
+          "balanceBefore": 563.28,
+          "balanceAfter": 527.39
+        },
+        {
+          "id": "a27f98b5-6931-4eb0-9bf8-74009f02ad95",
+          "type": "credit",
+          "timestamp": "2016-10-27T15:35:30.262Z",
+          "currency": "AUD",
+          "amount": 13.59,
+          "balanceBefore": 549.69,
+          "balanceAfter": 563.28
+        },
+        {
+          "id": "c3d10e04-074a-4e1c-826c-995c7816b4f6",
+          "type": "debit",
+          "timestamp": "2016-10-26T12:28:12.347Z",
+          "currency": "AUD",
+          "amount": 4.71,
+          "balanceBefore": 554.4,
+          "balanceAfter": 549.69
+        },
+        {
+          "id": "60555483-1985-41b8-a293-2ec67c92d253",
+          "type": "credit",
+          "timestamp": "2016-10-24T19:53:49.129Z",
+          "currency": "AUD",
+          "amount": 33.43,
+          "balanceBefore": 520.97,
+          "balanceAfter": 554.4
+        },
+        {
+          "id": "ccd3119c-8ce4-4a67-9bda-58123ecc8873",
+          "type": "debit",
+          "timestamp": "2016-10-23T21:49:07.650Z",
+          "currency": "AUD",
+          "amount": 48.73,
+          "balanceBefore": 569.7,
+          "balanceAfter": 520.97
+        },
+        {
+          "id": "b9229687-792b-4f66-ac86-76ee34c20fc9",
+          "type": "credit",
+          "timestamp": "2016-10-23T04:27:38.346Z",
+          "currency": "AUD",
+          "amount": 54.31,
+          "balanceBefore": 515.39,
+          "balanceAfter": 569.7
+        },
+        {
+          "id": "11f183e4-30f0-4955-bdcd-e78564e95674",
+          "type": "debit",
+          "timestamp": "2016-10-22T04:35:49.223Z",
+          "currency": "AUD",
+          "amount": 15.96,
+          "balanceBefore": 531.35,
+          "balanceAfter": 515.39
+        },
+        {
+          "id": "a2e40931-04ac-4bee-849a-ff99f95dd324",
+          "type": "debit",
+          "timestamp": "2016-10-21T14:54:59.860Z",
+          "currency": "AUD",
+          "amount": 30.67,
+          "balanceBefore": 562.02,
+          "balanceAfter": 531.35
+        },
+        {
+          "id": "9961fa0c-1a6d-4caf-ab67-8ceeebf9b188",
+          "type": "debit",
+          "timestamp": "2016-10-19T16:22:08.960Z",
+          "currency": "AUD",
+          "amount": 9.86,
+          "balanceBefore": 571.88,
+          "balanceAfter": 562.02
+        },
+        {
+          "id": "1b2bc78e-30de-4957-b8d8-f99dff980697",
+          "type": "credit",
+          "timestamp": "2016-10-19T03:05:33.623Z",
+          "currency": "AUD",
+          "amount": 73.25,
+          "balanceBefore": 498.63,
+          "balanceAfter": 571.88
+        },
+        {
+          "id": "dcc0ba6e-e10c-4399-b606-233587f82477",
+          "type": "credit",
+          "timestamp": "2016-10-18T03:50:11.249Z",
+          "currency": "AUD",
+          "amount": 61.62,
+          "balanceBefore": 437.01,
+          "balanceAfter": 498.63
+        },
+        {
+          "id": "74f7ca7e-a3d2-4f26-b1f1-ae83c7694bf9",
+          "type": "credit",
+          "timestamp": "2016-10-17T14:56:47.065Z",
+          "currency": "AUD",
+          "amount": 45.64,
+          "balanceBefore": 391.37,
+          "balanceAfter": 437.01
+        },
+        {
+          "id": "6d203497-179f-434b-81d6-dec4548c323b",
+          "type": "credit",
+          "timestamp": "2016-10-16T06:18:19.213Z",
+          "currency": "AUD",
+          "amount": 48.64,
+          "balanceBefore": 342.73,
+          "balanceAfter": 391.37
+        },
+        {
+          "id": "627a68f6-6148-489a-b954-cadf33c2dca7",
+          "type": "debit",
+          "timestamp": "2016-10-15T16:11:38.713Z",
+          "currency": "AUD",
+          "amount": 14.61,
+          "balanceBefore": 357.34,
+          "balanceAfter": 342.73
+        },
+        {
+          "id": "61ec3e4a-f2d9-4f27-9928-7e8bdcdd92ee",
+          "type": "debit",
+          "timestamp": "2016-10-13T17:33:13.709Z",
+          "currency": "AUD",
+          "amount": 22.64,
+          "balanceBefore": 379.98,
+          "balanceAfter": 357.34
+        },
+        {
+          "id": "b7929165-45c4-4445-913c-4b2a62b5709d",
+          "type": "debit",
+          "timestamp": "2016-10-12T19:03:58.880Z",
+          "currency": "AUD",
+          "amount": 44.66,
+          "balanceBefore": 424.64,
+          "balanceAfter": 379.98
+        },
+        {
+          "id": "8cb50695-b133-45db-9e61-f5d9d333226e",
+          "type": "debit",
+          "timestamp": "2016-10-11T18:52:24.944Z",
+          "currency": "AUD",
+          "amount": 1.76,
+          "balanceBefore": 426.4,
+          "balanceAfter": 424.64
+        },
+        {
+          "id": "b75297ef-4d4f-439a-a338-54140de78bd3",
+          "type": "credit",
+          "timestamp": "2016-10-11T08:26:30.512Z",
+          "currency": "AUD",
+          "amount": 57.36,
+          "balanceBefore": 369.04,
+          "balanceAfter": 426.4
+        },
+        {
+          "id": "82714e43-5667-4ff7-a720-81841d4f91d8",
+          "type": "credit",
+          "timestamp": "2016-10-10T07:20:04.794Z",
+          "currency": "AUD",
+          "amount": 42.27,
+          "balanceBefore": 326.77,
+          "balanceAfter": 369.04
+        },
+        {
+          "id": "d29ae4e3-c6aa-4191-a4d5-a31055fcb583",
+          "type": "credit",
+          "timestamp": "2016-10-09T00:15:11.955Z",
+          "currency": "AUD",
+          "amount": 70.81,
+          "balanceBefore": 255.96,
+          "balanceAfter": 326.77
+        },
+        {
+          "id": "0f3a442e-53bf-40ee-b0f7-b7d0560e81f5",
+          "type": "debit",
+          "timestamp": "2016-10-08T12:30:58.248Z",
+          "currency": "AUD",
+          "amount": 45.92,
+          "balanceBefore": 301.88,
+          "balanceAfter": 255.96
+        },
+        {
+          "id": "772774ea-fce7-4303-993e-5cf64effc728",
+          "type": "credit",
+          "timestamp": "2016-10-07T11:29:12.364Z",
+          "currency": "AUD",
+          "amount": 62.35,
+          "balanceBefore": 239.53,
+          "balanceAfter": 301.88
+        },
+        {
+          "id": "bbfa35a1-1063-451a-af2f-57fe88dd0e55",
+          "type": "debit",
+          "timestamp": "2016-10-06T10:15:30.876Z",
+          "currency": "AUD",
+          "amount": 50.87,
+          "balanceBefore": 290.4,
+          "balanceAfter": 239.53
+        },
+        {
+          "id": "40fbc8f2-4705-4265-9582-26eee6312c6a",
+          "type": "credit",
+          "timestamp": "2016-10-05T00:01:14.332Z",
+          "currency": "AUD",
+          "amount": 28.58,
+          "balanceBefore": 261.82,
+          "balanceAfter": 290.4
+        },
+        {
+          "id": "7ee9dcf4-8359-4783-8db6-661168e0fd67",
+          "type": "credit",
+          "timestamp": "2016-10-03T19:58:15.902Z",
+          "currency": "AUD",
+          "amount": 40.57,
+          "balanceBefore": 221.25,
+          "balanceAfter": 261.82
+        },
+        {
+          "id": "370d9f69-0d90-4d0d-8480-0fdb269c6cea",
+          "type": "debit",
+          "timestamp": "2016-10-02T20:51:22.645Z",
+          "currency": "AUD",
+          "amount": 1.22,
+          "balanceBefore": 222.47,
+          "balanceAfter": 221.25
+        },
+        {
+          "id": "5c2ce4ef-afbb-4d02-899e-9a7c7e6d743d",
+          "type": "credit",
+          "timestamp": "2016-10-02T14:41:26.558Z",
+          "currency": "AUD",
+          "amount": 62.16,
+          "balanceBefore": 160.31,
+          "balanceAfter": 222.47
+        },
+        {
+          "id": "cb34fa16-32a7-417d-93b9-747f6e860992",
+          "type": "credit",
+          "timestamp": "2016-10-01T07:46:58.937Z",
+          "currency": "AUD",
+          "amount": 74.51,
+          "balanceBefore": 85.8,
+          "balanceAfter": 160.31
+        },
+        {
+          "id": "4d82d5ad-ccb5-4bb4-a8a3-e2601ac0e21c",
+          "type": "credit",
+          "timestamp": "2016-09-30T02:28:51.075Z",
+          "currency": "AUD",
+          "amount": 53.74,
+          "balanceBefore": 32.06,
+          "balanceAfter": 85.8
+        },
+        {
+          "id": "025cc5f8-fff5-4524-8779-d7823d3aee6f",
+          "type": "credit",
+          "timestamp": "2016-09-28T23:54:09.790Z",
+          "currency": "AUD",
+          "amount": 32.06,
+          "balanceBefore": 0,
+          "balanceAfter": 32.06
+        },
+        {
+          "id": "170d75d3-0f50-4938-821e-c470d3885bfb",
+          "type": "credit",
+          "timestamp": "2016-09-27T18:10:18.604Z",
+          "currency": "AUD",
+          "amount": 0,
+          "balanceBefore": 0,
+          "balanceAfter": 0
+        }
+      ]
+    },
+    {
+      "id": "f1d16b86-192b-4dae-a71b-84e8f647b9d6",
+      "type": "Visa Debit Account",
+      "description": "Simple visa debit access account",
+      "icon": "credit_card",
+      "createdAt": "Wed, 14 Dec 2016 04:11:52 GMT",
+      "updatedAt": null,
+      "owner": {
+        "id": "81763a81-71c9-4dcb-aa94-3fb433586076",
+        "createdAt": "Wed, 14 Dec 2016 04:11:52 GMT",
+        "updatedAt": null,
+        "email": "Richard Stallman",
+        "name": "Richard Stallman"
+      },
+      "balance": 147.23,
+      "transactions": [
+        {
+          "id": "3e308fa4-5ecc-4e76-9365-5bb803684089",
+          "type": "credit",
+          "timestamp": "2016-12-13T14:26:04.581Z",
+          "currency": "AUD",
+          "amount": 4.43,
+          "balanceBefore": 142.8,
+          "balanceAfter": 147.23
+        },
+        {
+          "id": "a5d7d172-b9ac-440e-b203-2ec3d3915b99",
+          "type": "debit",
+          "timestamp": "2016-12-11T17:40:29.592Z",
+          "currency": "AUD",
+          "amount": 43.92,
+          "balanceBefore": 186.72,
+          "balanceAfter": 142.8
+        },
+        {
+          "id": "36f7928a-a09f-49a7-adaa-59c7b81924a8",
+          "type": "credit",
+          "timestamp": "2016-12-11T05:25:25.694Z",
+          "currency": "AUD",
+          "amount": 70.89,
+          "balanceBefore": 115.83,
+          "balanceAfter": 186.72
+        },
+        {
+          "id": "d8f415de-519b-4c67-ac69-ddc07bba4976",
+          "type": "debit",
+          "timestamp": "2016-12-10T04:37:12.121Z",
+          "currency": "AUD",
+          "amount": 20.27,
+          "balanceBefore": 136.1,
+          "balanceAfter": 115.83
+        },
+        {
+          "id": "3e4bde63-0c47-47cc-8920-d21e7b066277",
+          "type": "credit",
+          "timestamp": "2016-12-09T11:25:50.612Z",
+          "currency": "AUD",
+          "amount": 31.56,
+          "balanceBefore": 104.54,
+          "balanceAfter": 136.1
+        },
+        {
+          "id": "0f089410-8aa4-4612-84bb-245fa0ee539f",
+          "type": "credit",
+          "timestamp": "2016-12-08T01:28:04.613Z",
+          "currency": "AUD",
+          "amount": 4.54,
+          "balanceBefore": 100,
+          "balanceAfter": 104.54
+        },
+        {
+          "id": "c072e25e-0b1c-474a-807d-814fa6d0f1fc",
+          "type": "credit",
+          "timestamp": "2016-12-07T14:31:46.603Z",
+          "currency": "AUD",
+          "amount": 46.22,
+          "balanceBefore": 53.78,
+          "balanceAfter": 100
+        },
+        {
+          "id": "e1461cbc-392e-4ca9-b6d6-acf0aee6ccde",
+          "type": "debit",
+          "timestamp": "2016-12-06T13:17:45.785Z",
+          "currency": "AUD",
+          "amount": 3.61,
+          "balanceBefore": 57.39,
+          "balanceAfter": 53.78
+        },
+        {
+          "id": "a53c80e9-7ec9-45c6-9962-ea0436e73d8f",
+          "type": "credit",
+          "timestamp": "2016-12-04T23:02:51.781Z",
+          "currency": "AUD",
+          "amount": 17.57,
+          "balanceBefore": 39.82,
+          "balanceAfter": 57.39
+        },
+        {
+          "id": "750f5ed1-2403-4f66-8159-b69f811e47ca",
+          "type": "debit",
+          "timestamp": "2016-12-04T03:02:29.880Z",
+          "currency": "AUD",
+          "amount": 50.78,
+          "balanceBefore": 90.6,
+          "balanceAfter": 39.82
+        },
+        {
+          "id": "c16e6b65-6e1c-406c-8ae1-7936252893f1",
+          "type": "debit",
+          "timestamp": "2016-12-02T22:01:08.696Z",
+          "currency": "AUD",
+          "amount": 13.24,
+          "balanceBefore": 103.84,
+          "balanceAfter": 90.6
+        },
+        {
+          "id": "713f5eee-db48-4eb0-a0e1-f607c7233a35",
+          "type": "debit",
+          "timestamp": "2016-12-01T19:34:58.767Z",
+          "currency": "AUD",
+          "amount": 11.52,
+          "balanceBefore": 115.36,
+          "balanceAfter": 103.84
+        },
+        {
+          "id": "44d99498-eb7c-4b18-a6cf-7442f47c26a8",
+          "type": "credit",
+          "timestamp": "2016-11-30T20:13:20.192Z",
+          "currency": "AUD",
+          "amount": 17.04,
+          "balanceBefore": 98.32,
+          "balanceAfter": 115.36
+        },
+        {
+          "id": "7752b939-f1fd-43ad-8f28-b61a8ff4809a",
+          "type": "debit",
+          "timestamp": "2016-11-30T01:00:14.979Z",
+          "currency": "AUD",
+          "amount": 12.15,
+          "balanceBefore": 110.47,
+          "balanceAfter": 98.32
+        },
+        {
+          "id": "c268fdb7-0403-4756-904a-d23242174b45",
+          "type": "credit",
+          "timestamp": "2016-11-29T00:44:04.665Z",
+          "currency": "AUD",
+          "amount": 55.04,
+          "balanceBefore": 55.43,
+          "balanceAfter": 110.47
+        },
+        {
+          "id": "08b8fcdb-c045-4152-bfaf-2691631495a2",
+          "type": "debit",
+          "timestamp": "2016-11-28T11:16:35.988Z",
+          "currency": "AUD",
+          "amount": 27.02,
+          "balanceBefore": 82.45,
+          "balanceAfter": 55.43
+        },
+        {
+          "id": "1f5885af-3c0b-4a6f-8dc1-c3b5788f07cc",
+          "type": "credit",
+          "timestamp": "2016-11-27T10:32:28.580Z",
+          "currency": "AUD",
+          "amount": 40.68,
+          "balanceBefore": 41.77,
+          "balanceAfter": 82.45
+        },
+        {
+          "id": "c10fab93-16e9-438c-8e79-0415dc6a5f4c",
+          "type": "debit",
+          "timestamp": "2016-11-26T09:40:41.461Z",
+          "currency": "AUD",
+          "amount": 29.65,
+          "balanceBefore": 71.42,
+          "balanceAfter": 41.77
+        },
+        {
+          "id": "28900f4c-95d6-4cd5-b8e4-f8a7265f1ffb",
+          "type": "debit",
+          "timestamp": "2016-11-25T13:56:51.412Z",
+          "currency": "AUD",
+          "amount": 21.24,
+          "balanceBefore": 92.66,
+          "balanceAfter": 71.42
+        },
+        {
+          "id": "1fc83f14-ae9f-4882-b6cc-4daf9d917548",
+          "type": "credit",
+          "timestamp": "2016-11-24T13:54:48.062Z",
+          "currency": "AUD",
+          "amount": 66.19,
+          "balanceBefore": 26.47,
+          "balanceAfter": 92.66
+        },
+        {
+          "id": "341b4c4e-cac4-4eb0-a002-150781a4a97b",
+          "type": "debit",
+          "timestamp": "2016-11-23T10:33:20.380Z",
+          "currency": "AUD",
+          "amount": 19.89,
+          "balanceBefore": 46.36,
+          "balanceAfter": 26.47
+        },
+        {
+          "id": "8029187b-b212-499e-acfb-930c147cb274",
+          "type": "credit",
+          "timestamp": "2016-11-22T07:29:54.297Z",
+          "currency": "AUD",
+          "amount": 24.74,
+          "balanceBefore": 21.62,
+          "balanceAfter": 46.36
+        },
+        {
+          "id": "69325885-5f63-4eae-b0eb-2f44b5b84cd3",
+          "type": "credit",
+          "timestamp": "2016-11-20T20:08:52.588Z",
+          "currency": "AUD",
+          "amount": 44.46,
+          "balanceBefore": -22.84,
+          "balanceAfter": 21.62
+        },
+        {
+          "id": "03319623-1e67-4d11-81a9-ac8d915cea5c",
+          "type": "credit",
+          "timestamp": "2016-11-19T17:24:08.991Z",
+          "currency": "AUD",
+          "amount": 50.42,
+          "balanceBefore": -73.26,
+          "balanceAfter": -22.84
+        },
+        {
+          "id": "da0e3201-e3b5-440d-80c2-df128f36f1ae",
+          "type": "debit",
+          "timestamp": "2016-11-19T12:18:44.550Z",
+          "currency": "AUD",
+          "amount": 9.45,
+          "balanceBefore": -63.81,
+          "balanceAfter": -73.26
+        },
+        {
+          "id": "cb4d05b8-33f3-4d4c-9ae7-8c600994b3c4",
+          "type": "credit",
+          "timestamp": "2016-11-18T12:05:53.644Z",
+          "currency": "AUD",
+          "amount": 15.82,
+          "balanceBefore": -79.63,
+          "balanceAfter": -63.81
+        },
+        {
+          "id": "72c427fe-7c74-4357-bc28-4149188b61c0",
+          "type": "credit",
+          "timestamp": "2016-11-17T02:34:08.473Z",
+          "currency": "AUD",
+          "amount": 41.64,
+          "balanceBefore": -121.27,
+          "balanceAfter": -79.63
+        },
+        {
+          "id": "6739e4d5-b183-4d45-9051-6b8a13084017",
+          "type": "debit",
+          "timestamp": "2016-11-15T22:54:23.434Z",
+          "currency": "AUD",
+          "amount": 30.49,
+          "balanceBefore": -90.78,
+          "balanceAfter": -121.27
+        },
+        {
+          "id": "6dbb3369-b2c6-4f75-9c79-2bd52f8605e5",
+          "type": "debit",
+          "timestamp": "2016-11-15T15:25:12.345Z",
+          "currency": "AUD",
+          "amount": 20.7,
+          "balanceBefore": -70.08,
+          "balanceAfter": -90.78
+        },
+        {
+          "id": "761fb289-e486-4122-9959-5644ce57f6b6",
+          "type": "debit",
+          "timestamp": "2016-11-13T17:15:24.642Z",
+          "currency": "AUD",
+          "amount": 4.54,
+          "balanceBefore": -65.54,
+          "balanceAfter": -70.08
+        },
+        {
+          "id": "fc52b980-c9dc-4a58-b70b-bc91aa14a0a4",
+          "type": "credit",
+          "timestamp": "2016-11-13T11:02:48.539Z",
+          "currency": "AUD",
+          "amount": 14.55,
+          "balanceBefore": -80.09,
+          "balanceAfter": -65.54
+        },
+        {
+          "id": "c64dbbb7-2c6b-4796-9f22-5e02a96be466",
+          "type": "debit",
+          "timestamp": "2016-11-12T05:27:31.156Z",
+          "currency": "AUD",
+          "amount": 48.3,
+          "balanceBefore": -31.79,
+          "balanceAfter": -80.09
+        },
+        {
+          "id": "cbd4af53-48af-4968-ad26-ea6da6bde536",
+          "type": "debit",
+          "timestamp": "2016-11-11T07:07:26.906Z",
+          "currency": "AUD",
+          "amount": 43.54,
+          "balanceBefore": 11.75,
+          "balanceAfter": -31.79
+        },
+        {
+          "id": "b7fd1de9-9292-4b6c-855d-01c855d0a8a2",
+          "type": "credit",
+          "timestamp": "2016-11-10T11:30:19.459Z",
+          "currency": "AUD",
+          "amount": 6.55,
+          "balanceBefore": 5.2,
+          "balanceAfter": 11.75
+        },
+        {
+          "id": "4c757958-9dd6-4d16-a6c8-d2f6a0bec8de",
+          "type": "debit",
+          "timestamp": "2016-11-08T22:53:54.142Z",
+          "currency": "AUD",
+          "amount": 5.3,
+          "balanceBefore": 10.5,
+          "balanceAfter": 5.2
+        },
+        {
+          "id": "d806b33b-ffc5-40ea-bda9-1103c6b82374",
+          "type": "credit",
+          "timestamp": "2016-11-08T06:22:53.493Z",
+          "currency": "AUD",
+          "amount": 52.91,
+          "balanceBefore": -42.41,
+          "balanceAfter": 10.5
+        },
+        {
+          "id": "54e5b359-8adb-4909-b32c-e05060b92b3d",
+          "type": "debit",
+          "timestamp": "2016-11-07T03:18:10.854Z",
+          "currency": "AUD",
+          "amount": 42.41,
+          "balanceBefore": 0,
+          "balanceAfter": -42.41
+        },
+        {
+          "id": "082d3d9f-8ecc-4dd8-b174-8679aabc82b9",
+          "type": "credit",
+          "timestamp": "2016-11-06T05:45:03.246Z",
+          "currency": "AUD",
+          "amount": 0,
+          "balanceBefore": 0,
+          "balanceAfter": 0
+        }
+      ]
+    },
+    {
+      "id": "21e248cf-551f-4434-a0c5-1f3fad285b56",
+      "type": "Visa Debit Account",
+      "description": "Simple visa debit access account",
+      "icon": "credit_card",
+      "createdAt": "Wed, 14 Dec 2016 04:11:52 GMT",
+      "updatedAt": null,
+      "owner": {
+        "id": "81763a81-71c9-4dcb-aa94-3fb433586076",
+        "createdAt": "Wed, 14 Dec 2016 04:11:52 GMT",
+        "updatedAt": null,
+        "email": "Richard Stallman",
+        "name": "Richard Stallman"
+      },
+      "balance": 65.69,
+      "transactions": [
+        {
+          "id": "221eb47a-6fec-4d87-b69e-98cfc0c900a0",
+          "type": "credit",
+          "timestamp": "2016-12-13T00:13:39.018Z",
+          "currency": "AUD",
+          "amount": 75.07,
+          "balanceBefore": -9.38,
+          "balanceAfter": 65.69
+        },
+        {
+          "id": "2a44e547-7d8e-4a85-a9f6-afb055d86466",
+          "type": "debit",
+          "timestamp": "2016-12-12T12:43:29.403Z",
+          "currency": "AUD",
+          "amount": 42.31,
+          "balanceBefore": 32.93,
+          "balanceAfter": -9.38
+        },
+        {
+          "id": "e87df364-a8a4-4157-be65-5306bf9fc3d1",
+          "type": "debit",
+          "timestamp": "2016-12-11T08:40:47.774Z",
+          "currency": "AUD",
+          "amount": 41.85,
+          "balanceBefore": 74.78,
+          "balanceAfter": 32.93
+        },
+        {
+          "id": "bd28b53b-8269-4fca-8928-194ca04b6463",
+          "type": "credit",
+          "timestamp": "2016-12-10T12:06:59.303Z",
+          "currency": "AUD",
+          "amount": 36.45,
+          "balanceBefore": 38.33,
+          "balanceAfter": 74.78
+        },
+        {
+          "id": "90c7db0e-ab2d-4624-bf71-1d625633f80d",
+          "type": "credit",
+          "timestamp": "2016-12-09T01:30:12.504Z",
+          "currency": "AUD",
+          "amount": 46,
+          "balanceBefore": -7.67,
+          "balanceAfter": 38.33
+        },
+        {
+          "id": "4870cb48-5bc3-42a8-9674-7ee52f8c3b4a",
+          "type": "debit",
+          "timestamp": "2016-12-08T13:32:47.245Z",
+          "currency": "AUD",
+          "amount": 30.95,
+          "balanceBefore": 23.28,
+          "balanceAfter": -7.67
+        },
+        {
+          "id": "401d0f08-39e4-47d0-8c2d-21afaef5f509",
+          "type": "debit",
+          "timestamp": "2016-12-07T05:24:13.329Z",
+          "currency": "AUD",
+          "amount": 27.26,
+          "balanceBefore": 50.54,
+          "balanceAfter": 23.28
+        },
+        {
+          "id": "2e60db83-5329-4bcb-b2aa-4bc70d81b720",
+          "type": "debit",
+          "timestamp": "2016-12-06T10:44:40.562Z",
+          "currency": "AUD",
+          "amount": 10.61,
+          "balanceBefore": 61.15,
+          "balanceAfter": 50.54
+        },
+        {
+          "id": "a21203c4-9045-4291-bc34-071471a8e99f",
+          "type": "debit",
+          "timestamp": "2016-12-04T19:38:12.358Z",
+          "currency": "AUD",
+          "amount": 32.05,
+          "balanceBefore": 93.2,
+          "balanceAfter": 61.15
+        },
+        {
+          "id": "56308397-ca0d-49b3-bdad-1f168a9c05b7",
+          "type": "debit",
+          "timestamp": "2016-12-04T07:31:31.238Z",
+          "currency": "AUD",
+          "amount": 39.46,
+          "balanceBefore": 132.66,
+          "balanceAfter": 93.2
+        },
+        {
+          "id": "5a33f206-df34-4fb0-806e-901c972beba7",
+          "type": "debit",
+          "timestamp": "2016-12-03T13:05:48.665Z",
+          "currency": "AUD",
+          "amount": 2.13,
+          "balanceBefore": 134.79,
+          "balanceAfter": 132.66
+        },
+        {
+          "id": "4393d64e-1853-453f-877f-98379285632b",
+          "type": "debit",
+          "timestamp": "2016-12-02T04:32:44.876Z",
+          "currency": "AUD",
+          "amount": 22.64,
+          "balanceBefore": 157.43,
+          "balanceAfter": 134.79
+        },
+        {
+          "id": "f8582b96-d61f-4d93-a69b-e9028478f4de",
+          "type": "debit",
+          "timestamp": "2016-11-30T17:51:23.371Z",
+          "currency": "AUD",
+          "amount": 38.61,
+          "balanceBefore": 196.04,
+          "balanceAfter": 157.43
+        },
+        {
+          "id": "72b33f97-a00d-4bcf-8d2d-14c07d10c283",
+          "type": "debit",
+          "timestamp": "2016-11-30T05:14:31.228Z",
+          "currency": "AUD",
+          "amount": 42.46,
+          "balanceBefore": 238.5,
+          "balanceAfter": 196.04
+        },
+        {
+          "id": "6bbeac8b-a7b8-4771-a6da-ca9f297298e2",
+          "type": "credit",
+          "timestamp": "2016-11-29T13:15:51.963Z",
+          "currency": "AUD",
+          "amount": 72.99,
+          "balanceBefore": 165.51,
+          "balanceAfter": 238.5
+        },
+        {
+          "id": "bda50a11-2a3c-491d-9e77-7954bb150fc0",
+          "type": "debit",
+          "timestamp": "2016-11-28T13:47:13.795Z",
+          "currency": "AUD",
+          "amount": 29.92,
+          "balanceBefore": 195.43,
+          "balanceAfter": 165.51
+        },
+        {
+          "id": "3f8e4c99-28a9-4c7f-8999-21eabfa7bd2f",
+          "type": "credit",
+          "timestamp": "2016-11-27T00:43:46.850Z",
+          "currency": "AUD",
+          "amount": 17.44,
+          "balanceBefore": 177.99,
+          "balanceAfter": 195.43
+        },
+        {
+          "id": "138c3e0f-88a1-4d19-b2cb-34a6a15e089f",
+          "type": "debit",
+          "timestamp": "2016-11-26T13:08:52.437Z",
+          "currency": "AUD",
+          "amount": 47.13,
+          "balanceBefore": 225.12,
+          "balanceAfter": 177.99
+        },
+        {
+          "id": "8129a350-ab8a-4ca9-a3cb-8afd5af91961",
+          "type": "debit",
+          "timestamp": "2016-11-24T23:22:21.994Z",
+          "currency": "AUD",
+          "amount": 34.61,
+          "balanceBefore": 259.73,
+          "balanceAfter": 225.12
+        },
+        {
+          "id": "a494379c-987d-4e5a-9af5-722a498e9190",
+          "type": "credit",
+          "timestamp": "2016-11-24T01:00:46.405Z",
+          "currency": "AUD",
+          "amount": 70.95,
+          "balanceBefore": 188.78,
+          "balanceAfter": 259.73
+        },
+        {
+          "id": "f2512f8b-f37e-4d86-a331-1698772480aa",
+          "type": "debit",
+          "timestamp": "2016-11-23T04:34:39.226Z",
+          "currency": "AUD",
+          "amount": 30.36,
+          "balanceBefore": 219.14,
+          "balanceAfter": 188.78
+        },
+        {
+          "id": "b74a2c1c-5381-4d11-a0ad-7749912876f0",
+          "type": "debit",
+          "timestamp": "2016-11-21T21:25:18.369Z",
+          "currency": "AUD",
+          "amount": 1.16,
+          "balanceBefore": 220.3,
+          "balanceAfter": 219.14
+        },
+        {
+          "id": "96017420-4238-46fa-be6e-2edfb14325ab",
+          "type": "debit",
+          "timestamp": "2016-11-20T16:52:53.142Z",
+          "currency": "AUD",
+          "amount": 6.14,
+          "balanceBefore": 226.44,
+          "balanceAfter": 220.3
+        },
+        {
+          "id": "9c5f8d22-09d3-429b-b441-c211fda3f7bf",
+          "type": "debit",
+          "timestamp": "2016-11-20T08:51:40.537Z",
+          "currency": "AUD",
+          "amount": 43.47,
+          "balanceBefore": 269.91,
+          "balanceAfter": 226.44
+        },
+        {
+          "id": "0f8413eb-eed3-47ad-be56-0fb1e4d0a835",
+          "type": "credit",
+          "timestamp": "2016-11-18T21:12:05.982Z",
+          "currency": "AUD",
+          "amount": 12.25,
+          "balanceBefore": 257.66,
+          "balanceAfter": 269.91
+        },
+        {
+          "id": "f21cd1a5-c938-46fe-bb60-d522c6ffbded",
+          "type": "debit",
+          "timestamp": "2016-11-18T15:16:26.696Z",
+          "currency": "AUD",
+          "amount": 1.59,
+          "balanceBefore": 259.25,
+          "balanceAfter": 257.66
+        },
+        {
+          "id": "b45c9962-345f-4ee0-b774-01b88e45b298",
+          "type": "credit",
+          "timestamp": "2016-11-17T10:39:09.712Z",
+          "currency": "AUD",
+          "amount": 50.18,
+          "balanceBefore": 209.07,
+          "balanceAfter": 259.25
+        },
+        {
+          "id": "8af724c4-3d44-4ce1-9c17-7b58cd9f71cb",
+          "type": "credit",
+          "timestamp": "2016-11-15T18:18:12.217Z",
+          "currency": "AUD",
+          "amount": 43.9,
+          "balanceBefore": 165.17,
+          "balanceAfter": 209.07
+        },
+        {
+          "id": "cf512249-1f12-4eaa-acbc-9842ab3c2089",
+          "type": "debit",
+          "timestamp": "2016-11-14T20:44:56.400Z",
+          "currency": "AUD",
+          "amount": 46.85,
+          "balanceBefore": 212.02,
+          "balanceAfter": 165.17
+        },
+        {
+          "id": "0684b735-b5b2-430c-9570-4a334b29a96e",
+          "type": "debit",
+          "timestamp": "2016-11-13T17:20:23.413Z",
+          "currency": "AUD",
+          "amount": 36.58,
+          "balanceBefore": 248.6,
+          "balanceAfter": 212.02
+        },
+        {
+          "id": "3db7af52-a61c-42e3-9de7-fca0694057c4",
+          "type": "debit",
+          "timestamp": "2016-11-12T21:55:11.787Z",
+          "currency": "AUD",
+          "amount": 43.07,
+          "balanceBefore": 291.67,
+          "balanceAfter": 248.6
+        },
+        {
+          "id": "e4fadba3-1268-4d46-8ce3-1553fcb192d7",
+          "type": "debit",
+          "timestamp": "2016-11-12T07:58:52.088Z",
+          "currency": "AUD",
+          "amount": 20.74,
+          "balanceBefore": 312.41,
+          "balanceAfter": 291.67
+        },
+        {
+          "id": "da154ee1-8506-4b58-8f6c-bbe8c2133c97",
+          "type": "debit",
+          "timestamp": "2016-11-10T22:07:23.635Z",
+          "currency": "AUD",
+          "amount": 39.45,
+          "balanceBefore": 351.86,
+          "balanceAfter": 312.41
+        },
+        {
+          "id": "0e3478c6-bb73-494f-bf07-43d02979f35b",
+          "type": "credit",
+          "timestamp": "2016-11-10T12:52:30.092Z",
+          "currency": "AUD",
+          "amount": 7.32,
+          "balanceBefore": 344.54,
+          "balanceAfter": 351.86
+        },
+        {
+          "id": "81bc2cbd-13db-4c20-8740-1f8a739520c5",
+          "type": "debit",
+          "timestamp": "2016-11-09T09:12:46.534Z",
+          "currency": "AUD",
+          "amount": 15.58,
+          "balanceBefore": 360.12,
+          "balanceAfter": 344.54
+        },
+        {
+          "id": "ed5bdeb9-85b7-41b6-9e85-beb8b56720d7",
+          "type": "debit",
+          "timestamp": "2016-11-08T06:29:30.894Z",
+          "currency": "AUD",
+          "amount": 12.79,
+          "balanceBefore": 372.91,
+          "balanceAfter": 360.12
+        },
+        {
+          "id": "07d1b9e5-ce35-4958-93f6-fb2dbaa20969",
+          "type": "credit",
+          "timestamp": "2016-11-06T17:26:09.344Z",
+          "currency": "AUD",
+          "amount": 18.7,
+          "balanceBefore": 354.21,
+          "balanceAfter": 372.91
+        },
+        {
+          "id": "be5192ac-7060-4093-804a-a932a251017c",
+          "type": "credit",
+          "timestamp": "2016-11-06T05:37:24.752Z",
+          "currency": "AUD",
+          "amount": 27.18,
+          "balanceBefore": 327.03,
+          "balanceAfter": 354.21
+        },
+        {
+          "id": "98e1c427-17d8-40f5-9b94-86e4dba58dbb",
+          "type": "debit",
+          "timestamp": "2016-11-05T01:04:37.743Z",
+          "currency": "AUD",
+          "amount": 49.02,
+          "balanceBefore": 376.05,
+          "balanceAfter": 327.03
+        },
+        {
+          "id": "c4bfa02b-7d2a-4789-89b9-ec81bb2f3ca9",
+          "type": "debit",
+          "timestamp": "2016-11-03T20:28:44.559Z",
+          "currency": "AUD",
+          "amount": 1.7,
+          "balanceBefore": 377.75,
+          "balanceAfter": 376.05
+        },
+        {
+          "id": "dabf36d7-765b-438b-936d-af945552a1dc",
+          "type": "debit",
+          "timestamp": "2016-11-03T04:09:49.993Z",
+          "currency": "AUD",
+          "amount": 12.12,
+          "balanceBefore": 389.87,
+          "balanceAfter": 377.75
+        },
+        {
+          "id": "6f74791a-86db-4092-955f-9c094d2d973b",
+          "type": "debit",
+          "timestamp": "2016-11-02T01:46:38.047Z",
+          "currency": "AUD",
+          "amount": 23.87,
+          "balanceBefore": 413.74,
+          "balanceAfter": 389.87
+        },
+        {
+          "id": "2ecc8766-f5e4-40d1-b3ec-77e0f6208537",
+          "type": "debit",
+          "timestamp": "2016-11-01T11:31:17.052Z",
+          "currency": "AUD",
+          "amount": 39.33,
+          "balanceBefore": 453.07,
+          "balanceAfter": 413.74
+        },
+        {
+          "id": "a1ecf30e-8f7a-4b70-8628-d06aa06e88c0",
+          "type": "debit",
+          "timestamp": "2016-10-31T10:11:46.562Z",
+          "currency": "AUD",
+          "amount": 24.36,
+          "balanceBefore": 477.43,
+          "balanceAfter": 453.07
+        },
+        {
+          "id": "6a35ef3f-c499-400e-a6fd-f3da65c6c3c0",
+          "type": "debit",
+          "timestamp": "2016-10-30T02:55:54.098Z",
+          "currency": "AUD",
+          "amount": 28.89,
+          "balanceBefore": 506.32,
+          "balanceAfter": 477.43
+        },
+        {
+          "id": "7f762c72-e988-4095-bee0-f2d88d85e1b0",
+          "type": "credit",
+          "timestamp": "2016-10-29T03:49:53.583Z",
+          "currency": "AUD",
+          "amount": 52.36,
+          "balanceBefore": 453.96,
+          "balanceAfter": 506.32
+        },
+        {
+          "id": "b5076aa3-3e6b-43a8-8b80-e8bdbb031312",
+          "type": "debit",
+          "timestamp": "2016-10-28T07:07:48.921Z",
+          "currency": "AUD",
+          "amount": 42.03,
+          "balanceBefore": 495.99,
+          "balanceAfter": 453.96
+        },
+        {
+          "id": "bfe6612a-ab2d-45fc-b6f5-b78184b290e7",
+          "type": "debit",
+          "timestamp": "2016-10-27T06:52:13.827Z",
+          "currency": "AUD",
+          "amount": 22.95,
+          "balanceBefore": 518.94,
+          "balanceAfter": 495.99
+        },
+        {
+          "id": "d5913fc3-5093-45e9-acb2-6e22057e51f8",
+          "type": "debit",
+          "timestamp": "2016-10-26T12:50:32.748Z",
+          "currency": "AUD",
+          "amount": 46.61,
+          "balanceBefore": 565.55,
+          "balanceAfter": 518.94
+        },
+        {
+          "id": "444bf061-3d48-4f13-a5fe-94ea0afcd6d7",
+          "type": "credit",
+          "timestamp": "2016-10-25T12:57:09.011Z",
+          "currency": "AUD",
+          "amount": 12.46,
+          "balanceBefore": 553.09,
+          "balanceAfter": 565.55
+        },
+        {
+          "id": "67f8ce92-037c-44a4-a7a4-7775181eb24d",
+          "type": "credit",
+          "timestamp": "2016-10-24T10:39:14.240Z",
+          "currency": "AUD",
+          "amount": 2.22,
+          "balanceBefore": 550.87,
+          "balanceAfter": 553.09
+        },
+        {
+          "id": "2e72e6a0-2dc4-4a90-a4ee-2f23c6ab53e9",
+          "type": "debit",
+          "timestamp": "2016-10-23T14:14:10.146Z",
+          "currency": "AUD",
+          "amount": 31.02,
+          "balanceBefore": 581.89,
+          "balanceAfter": 550.87
+        },
+        {
+          "id": "26e983cc-40a6-4cc4-8a44-b6b5bd136c22",
+          "type": "debit",
+          "timestamp": "2016-10-22T13:32:00.127Z",
+          "currency": "AUD",
+          "amount": 25.05,
+          "balanceBefore": 606.94,
+          "balanceAfter": 581.89
+        },
+        {
+          "id": "96c06b5a-606d-4f42-a16a-615543b135de",
+          "type": "credit",
+          "timestamp": "2016-10-21T08:57:19.862Z",
+          "currency": "AUD",
+          "amount": 27.42,
+          "balanceBefore": 579.52,
+          "balanceAfter": 606.94
+        },
+        {
+          "id": "66fd77b9-c3e8-4c25-9838-64b7e1283292",
+          "type": "debit",
+          "timestamp": "2016-10-20T05:18:15.979Z",
+          "currency": "AUD",
+          "amount": 3.5,
+          "balanceBefore": 583.02,
+          "balanceAfter": 579.52
+        },
+        {
+          "id": "f583984f-2559-4ed9-aa99-1bafed4acbee",
+          "type": "credit",
+          "timestamp": "2016-10-19T06:26:38.106Z",
+          "currency": "AUD",
+          "amount": 8.08,
+          "balanceBefore": 574.94,
+          "balanceAfter": 583.02
+        },
+        {
+          "id": "77b21f6a-f20b-4f91-883b-eb214082b7d4",
+          "type": "credit",
+          "timestamp": "2016-10-18T14:51:23.741Z",
+          "currency": "AUD",
+          "amount": 8.29,
+          "balanceBefore": 566.65,
+          "balanceAfter": 574.94
+        },
+        {
+          "id": "4ed18ba5-38c8-477f-840e-34b7e742db00",
+          "type": "debit",
+          "timestamp": "2016-10-17T03:08:57.392Z",
+          "currency": "AUD",
+          "amount": 6.9,
+          "balanceBefore": 573.55,
+          "balanceAfter": 566.65
+        },
+        {
+          "id": "72b9a443-055b-46c9-be2c-edb777b192b1",
+          "type": "credit",
+          "timestamp": "2016-10-15T19:08:20.761Z",
+          "currency": "AUD",
+          "amount": 28.78,
+          "balanceBefore": 544.77,
+          "balanceAfter": 573.55
+        },
+        {
+          "id": "a591e459-cb62-4d2e-8e58-2f7505b69804",
+          "type": "credit",
+          "timestamp": "2016-10-15T02:49:39.127Z",
+          "currency": "AUD",
+          "amount": 15.85,
+          "balanceBefore": 528.92,
+          "balanceAfter": 544.77
+        },
+        {
+          "id": "edfb9f0e-f2d5-4131-ab81-98398823d850",
+          "type": "debit",
+          "timestamp": "2016-10-14T00:21:54.500Z",
+          "currency": "AUD",
+          "amount": 2.13,
+          "balanceBefore": 531.05,
+          "balanceAfter": 528.92
+        },
+        {
+          "id": "a52a0aff-c958-4c42-9115-6472d79fc094",
+          "type": "credit",
+          "timestamp": "2016-10-12T22:22:51.631Z",
+          "currency": "AUD",
+          "amount": 62.21,
+          "balanceBefore": 468.84,
+          "balanceAfter": 531.05
+        },
+        {
+          "id": "ffadee42-3967-41b7-bc6f-c5817c0ce411",
+          "type": "credit",
+          "timestamp": "2016-10-12T00:43:50.859Z",
+          "currency": "AUD",
+          "amount": 9.11,
+          "balanceBefore": 459.73,
+          "balanceAfter": 468.84
+        },
+        {
+          "id": "df1da658-b830-4494-8cb2-12fbed51c851",
+          "type": "credit",
+          "timestamp": "2016-10-10T19:52:25.924Z",
+          "currency": "AUD",
+          "amount": 72.24,
+          "balanceBefore": 387.49,
+          "balanceAfter": 459.73
+        },
+        {
+          "id": "4b3fe8cb-a964-4658-859e-92eed4e78c94",
+          "type": "credit",
+          "timestamp": "2016-10-10T14:44:51.116Z",
+          "currency": "AUD",
+          "amount": 6.61,
+          "balanceBefore": 380.88,
+          "balanceAfter": 387.49
+        },
+        {
+          "id": "de39075c-bbfc-4978-8cff-901026571a7b",
+          "type": "debit",
+          "timestamp": "2016-10-09T03:06:31.309Z",
+          "currency": "AUD",
+          "amount": 47.48,
+          "balanceBefore": 428.36,
+          "balanceAfter": 380.88
+        },
+        {
+          "id": "4eb7dca8-46e7-45f5-aef1-b3aa2fe2f251",
+          "type": "credit",
+          "timestamp": "2016-10-07T23:25:04.875Z",
+          "currency": "AUD",
+          "amount": 58.12,
+          "balanceBefore": 370.24,
+          "balanceAfter": 428.36
+        },
+        {
+          "id": "b3c8dd87-32ed-4441-bbbb-a49a5a3fc736",
+          "type": "credit",
+          "timestamp": "2016-10-06T22:07:53.194Z",
+          "currency": "AUD",
+          "amount": 10.11,
+          "balanceBefore": 360.13,
+          "balanceAfter": 370.24
+        },
+        {
+          "id": "68d7bf8b-8d85-4b21-9ceb-e31a4916a737",
+          "type": "credit",
+          "timestamp": "2016-10-06T09:24:47.387Z",
+          "currency": "AUD",
+          "amount": 29.04,
+          "balanceBefore": 331.09,
+          "balanceAfter": 360.13
+        },
+        {
+          "id": "df4cd73d-720e-401d-bbed-a8ce1ede607f",
+          "type": "credit",
+          "timestamp": "2016-10-05T13:47:42.839Z",
+          "currency": "AUD",
+          "amount": 44.18,
+          "balanceBefore": 286.91,
+          "balanceAfter": 331.09
+        },
+        {
+          "id": "b3705812-dd6b-41dc-9195-3fca1d3d8c9b",
+          "type": "credit",
+          "timestamp": "2016-10-03T21:40:38.156Z",
+          "currency": "AUD",
+          "amount": 54.28,
+          "balanceBefore": 232.63,
+          "balanceAfter": 286.91
+        },
+        {
+          "id": "ad2bccb3-4107-4585-982d-eb484e873c5b",
+          "type": "debit",
+          "timestamp": "2016-10-03T11:50:50.209Z",
+          "currency": "AUD",
+          "amount": 20.22,
+          "balanceBefore": 252.85,
+          "balanceAfter": 232.63
+        },
+        {
+          "id": "93242162-f85b-483d-ad59-4c17b632b1ea",
+          "type": "credit",
+          "timestamp": "2016-10-01T20:03:46.442Z",
+          "currency": "AUD",
+          "amount": 54.41,
+          "balanceBefore": 198.44,
+          "balanceAfter": 252.85
+        },
+        {
+          "id": "e789c9d3-72f0-4b43-883f-018d50212c5a",
+          "type": "debit",
+          "timestamp": "2016-09-30T19:32:04.909Z",
+          "currency": "AUD",
+          "amount": 21.87,
+          "balanceBefore": 220.31,
+          "balanceAfter": 198.44
+        },
+        {
+          "id": "284817ee-f858-4e04-940d-20849963f4e5",
+          "type": "debit",
+          "timestamp": "2016-09-30T05:20:49.287Z",
+          "currency": "AUD",
+          "amount": 46.02,
+          "balanceBefore": 266.33,
+          "balanceAfter": 220.31
+        },
+        {
+          "id": "2e219773-02b4-4266-aad3-f5d7e368bda8",
+          "type": "debit",
+          "timestamp": "2016-09-29T06:36:03.979Z",
+          "currency": "AUD",
+          "amount": 39.89,
+          "balanceBefore": 306.22,
+          "balanceAfter": 266.33
+        },
+        {
+          "id": "cac86b2f-9780-4b3e-a0b7-6fe7f1a26e43",
+          "type": "debit",
+          "timestamp": "2016-09-27T22:33:07.952Z",
+          "currency": "AUD",
+          "amount": 35.38,
+          "balanceBefore": 341.6,
+          "balanceAfter": 306.22
+        },
+        {
+          "id": "42d11636-9c64-4255-83b5-a17e1f2128c6",
+          "type": "credit",
+          "timestamp": "2016-09-27T13:46:57.312Z",
+          "currency": "AUD",
+          "amount": 62.82,
+          "balanceBefore": 278.78,
+          "balanceAfter": 341.6
+        },
+        {
+          "id": "ce60eb8c-9135-4b70-8b9d-8c0bb6648d3a",
+          "type": "credit",
+          "timestamp": "2016-09-26T11:09:47.882Z",
+          "currency": "AUD",
+          "amount": 3.97,
+          "balanceBefore": 274.81,
+          "balanceAfter": 278.78
+        },
+        {
+          "id": "c6f841b8-6097-4a9a-8bd7-2bbb3bd1787d",
+          "type": "debit",
+          "timestamp": "2016-09-25T15:38:54.625Z",
+          "currency": "AUD",
+          "amount": 34.14,
+          "balanceBefore": 308.95,
+          "balanceAfter": 274.81
+        },
+        {
+          "id": "b383e10b-f0a3-4966-aa82-a5a8c01488a5",
+          "type": "credit",
+          "timestamp": "2016-09-24T14:22:23.222Z",
+          "currency": "AUD",
+          "amount": 14.43,
+          "balanceBefore": 294.52,
+          "balanceAfter": 308.95
+        },
+        {
+          "id": "bb16c170-1f35-4c3d-a26d-bd5c055602ec",
+          "type": "credit",
+          "timestamp": "2016-09-23T04:51:49.680Z",
+          "currency": "AUD",
+          "amount": 75.01,
+          "balanceBefore": 219.51,
+          "balanceAfter": 294.52
+        },
+        {
+          "id": "2e391f51-312d-4cad-a2e8-135a19d01630",
+          "type": "credit",
+          "timestamp": "2016-09-21T21:31:25.695Z",
+          "currency": "AUD",
+          "amount": 27.34,
+          "balanceBefore": 192.17,
+          "balanceAfter": 219.51
+        },
+        {
+          "id": "0aa8bcc8-132e-47a3-9ec9-bcf9074e4c6e",
+          "type": "credit",
+          "timestamp": "2016-09-21T00:30:00.437Z",
+          "currency": "AUD",
+          "amount": 54.23,
+          "balanceBefore": 137.94,
+          "balanceAfter": 192.17
+        },
+        {
+          "id": "978fd473-6455-45c7-adb7-239d2a638285",
+          "type": "credit",
+          "timestamp": "2016-09-19T18:34:49.041Z",
+          "currency": "AUD",
+          "amount": 30.08,
+          "balanceBefore": 107.86,
+          "balanceAfter": 137.94
+        },
+        {
+          "id": "390c5982-ea72-4a0a-a0f7-3f46ed90e1d9",
+          "type": "credit",
+          "timestamp": "2016-09-19T16:11:57.197Z",
+          "currency": "AUD",
+          "amount": 45.72,
+          "balanceBefore": 62.14,
+          "balanceAfter": 107.86
+        },
+        {
+          "id": "cac6d8bd-5962-4897-bad1-f58d0e0c1413",
+          "type": "credit",
+          "timestamp": "2016-09-18T04:50:10.213Z",
+          "currency": "AUD",
+          "amount": 7.47,
+          "balanceBefore": 54.67,
+          "balanceAfter": 62.14
+        },
+        {
+          "id": "56ab1f8d-217f-4538-93c6-9295540ce4f8",
+          "type": "credit",
+          "timestamp": "2016-09-17T04:26:54.269Z",
+          "currency": "AUD",
+          "amount": 14.72,
+          "balanceBefore": 39.95,
+          "balanceAfter": 54.67
+        },
+        {
+          "id": "7c0f85bf-ed41-4117-9d33-f5a7826d86e4",
+          "type": "debit",
+          "timestamp": "2016-09-15T21:57:37.490Z",
+          "currency": "AUD",
+          "amount": 10.3,
+          "balanceBefore": 50.25,
+          "balanceAfter": 39.95
+        },
+        {
+          "id": "4220a154-990b-4b11-a768-f141e3755d87",
+          "type": "credit",
+          "timestamp": "2016-09-15T00:35:35.219Z",
+          "currency": "AUD",
+          "amount": 15.12,
+          "balanceBefore": 35.13,
+          "balanceAfter": 50.25
+        },
+        {
+          "id": "c2e36513-0f41-4680-80e0-f49d9da83a70",
+          "type": "credit",
+          "timestamp": "2016-09-14T12:59:09.145Z",
+          "currency": "AUD",
+          "amount": 48.52,
+          "balanceBefore": -13.39,
+          "balanceAfter": 35.13
+        },
+        {
+          "id": "a846f898-06b9-4789-86bd-102bcd8b1708",
+          "type": "debit",
+          "timestamp": "2016-09-13T05:44:53.850Z",
+          "currency": "AUD",
+          "amount": 38.83,
+          "balanceBefore": 25.44,
+          "balanceAfter": -13.39
+        },
+        {
+          "id": "71fa545e-71d0-49f7-ac4e-b0acd45b8c46",
+          "type": "debit",
+          "timestamp": "2016-09-12T00:24:01.588Z",
+          "currency": "AUD",
+          "amount": 40.17,
+          "balanceBefore": 65.61,
+          "balanceAfter": 25.44
+        },
+        {
+          "id": "ff94771d-5dab-4f9d-a8c0-a62804bba6ce",
+          "type": "debit",
+          "timestamp": "2016-09-10T20:29:56.414Z",
+          "currency": "AUD",
+          "amount": 27.76,
+          "balanceBefore": 93.37,
+          "balanceAfter": 65.61
+        },
+        {
+          "id": "0d3ba364-3b44-4827-b205-12dad2a0ba04",
+          "type": "credit",
+          "timestamp": "2016-09-10T10:54:14.077Z",
+          "currency": "AUD",
+          "amount": 2.55,
+          "balanceBefore": 90.82,
+          "balanceAfter": 93.37
+        },
+        {
+          "id": "7683ded4-87f6-4526-bbc2-1fa763d532d6",
+          "type": "credit",
+          "timestamp": "2016-09-09T06:17:34.010Z",
+          "currency": "AUD",
+          "amount": 25.52,
+          "balanceBefore": 65.3,
+          "balanceAfter": 90.82
+        },
+        {
+          "id": "46bbed20-9360-4c5d-9231-ffdcc5c4536c",
+          "type": "credit",
+          "timestamp": "2016-09-07T19:10:26.027Z",
+          "currency": "AUD",
+          "amount": 65.3,
+          "balanceBefore": 0,
+          "balanceAfter": 65.3
+        },
+        {
+          "id": "8fcf9ec3-30c3-40f6-a412-311e95ec61d8",
+          "type": "credit",
+          "timestamp": "2016-09-07T07:18:10.614Z",
+          "currency": "AUD",
+          "amount": 0,
+          "balanceBefore": 0,
+          "balanceAfter": 0
+        }
+      ]
+    },
+    {
+      "id": "b062ab4e-a7ac-4c40-9918-be1acf582a24",
+      "type": "Personal Account",
+      "description": "...",
+      "createdAt": "Wed, 14 Dec 2016 04:11:52 GMT",
+      "updatedAt": null,
+      "owner": {
+        "id": "81763a81-71c9-4dcb-aa94-3fb433586076",
+        "createdAt": "Wed, 14 Dec 2016 04:11:52 GMT",
+        "updatedAt": null,
+        "email": "Richard Stallman",
+        "name": "Richard Stallman"
+      },
+      "balance": -187.48,
+      "transactions": [
+        {
+          "id": "0602d1fc-c98b-4f8c-8339-961936af069b",
+          "type": "credit",
+          "timestamp": "2016-12-12T18:42:04.151Z",
+          "currency": "AUD",
+          "amount": 62.5,
+          "balanceBefore": -249.98,
+          "balanceAfter": -187.48
+        },
+        {
+          "id": "9898cae9-6f3e-48cd-a4b7-ccf81bca8dc4",
+          "type": "debit",
+          "timestamp": "2016-12-12T01:55:57.453Z",
+          "currency": "AUD",
+          "amount": 35.45,
+          "balanceBefore": -214.53,
+          "balanceAfter": -249.98
+        },
+        {
+          "id": "4400bdf5-2f03-4d32-98a0-f589bc2f782c",
+          "type": "debit",
+          "timestamp": "2016-12-10T20:09:01.238Z",
+          "currency": "AUD",
+          "amount": 27.55,
+          "balanceBefore": -186.98,
+          "balanceAfter": -214.53
+        },
+        {
+          "id": "bafdd4aa-674a-43ab-a987-e070c1cbb0de",
+          "type": "credit",
+          "timestamp": "2016-12-10T04:05:43.840Z",
+          "currency": "AUD",
+          "amount": 27.42,
+          "balanceBefore": -214.4,
+          "balanceAfter": -186.98
+        },
+        {
+          "id": "21271d3f-2d66-40a3-b8a4-80a3d83183e9",
+          "type": "debit",
+          "timestamp": "2016-12-09T05:32:52.536Z",
+          "currency": "AUD",
+          "amount": 29.46,
+          "balanceBefore": -184.94,
+          "balanceAfter": -214.4
+        },
+        {
+          "id": "9e160a2e-70bb-4da4-a00c-5c1832ab793e",
+          "type": "debit",
+          "timestamp": "2016-12-07T18:00:06.145Z",
+          "currency": "AUD",
+          "amount": 40.16,
+          "balanceBefore": -144.78,
+          "balanceAfter": -184.94
+        },
+        {
+          "id": "3ebc7ff4-4a0b-46b9-977c-536031f5e5ef",
+          "type": "credit",
+          "timestamp": "2016-12-07T09:04:54.128Z",
+          "currency": "AUD",
+          "amount": 35.18,
+          "balanceBefore": -179.96,
+          "balanceAfter": -144.78
+        },
+        {
+          "id": "497dc85d-b0bd-4734-a6b7-8917673aa748",
+          "type": "debit",
+          "timestamp": "2016-12-06T12:40:21.678Z",
+          "currency": "AUD",
+          "amount": 28.29,
+          "balanceBefore": -151.67,
+          "balanceAfter": -179.96
+        },
+        {
+          "id": "16abb9d5-1ab7-42b5-ba7a-b17dce2b9cdd",
+          "type": "credit",
+          "timestamp": "2016-12-05T00:43:14.346Z",
+          "currency": "AUD",
+          "amount": 21.46,
+          "balanceBefore": -173.13,
+          "balanceAfter": -151.67
+        },
+        {
+          "id": "a9ba3ab6-ca99-47d0-8b8f-b9036e20dd79",
+          "type": "credit",
+          "timestamp": "2016-12-04T01:48:21.324Z",
+          "currency": "AUD",
+          "amount": 6.1,
+          "balanceBefore": -179.23,
+          "balanceAfter": -173.13
+        },
+        {
+          "id": "2da11267-2226-4841-82ec-741e6ff9cea1",
+          "type": "debit",
+          "timestamp": "2016-12-02T22:30:27.041Z",
+          "currency": "AUD",
+          "amount": 22.41,
+          "balanceBefore": -156.82,
+          "balanceAfter": -179.23
+        },
+        {
+          "id": "04a915b5-7680-4a3e-95cb-306d1eb161ab",
+          "type": "debit",
+          "timestamp": "2016-12-02T12:49:17.154Z",
+          "currency": "AUD",
+          "amount": 47.57,
+          "balanceBefore": -109.25,
+          "balanceAfter": -156.82
+        },
+        {
+          "id": "f1d11e5d-d5eb-44f3-bc3b-1ba2672fddc0",
+          "type": "debit",
+          "timestamp": "2016-11-30T18:29:20.856Z",
+          "currency": "AUD",
+          "amount": 28.74,
+          "balanceBefore": -80.51,
+          "balanceAfter": -109.25
+        },
+        {
+          "id": "0bb17b39-9ccb-4bd8-a818-a746a42bebe2",
+          "type": "credit",
+          "timestamp": "2016-11-30T01:28:50.784Z",
+          "currency": "AUD",
+          "amount": 34.28,
+          "balanceBefore": -114.79,
+          "balanceAfter": -80.51
+        },
+        {
+          "id": "e45e04ec-14d6-48aa-85ca-936c9faaae2e",
+          "type": "debit",
+          "timestamp": "2016-11-29T12:09:00.337Z",
+          "currency": "AUD",
+          "amount": 12.77,
+          "balanceBefore": -102.02,
+          "balanceAfter": -114.79
+        },
+        {
+          "id": "28c3c85d-5a98-4411-bcdd-bd9b9b34c923",
+          "type": "debit",
+          "timestamp": "2016-11-27T23:39:45.365Z",
+          "currency": "AUD",
+          "amount": 2.69,
+          "balanceBefore": -99.33,
+          "balanceAfter": -102.02
+        },
+        {
+          "id": "ee99f499-d9af-4950-b657-6b814bd05a4a",
+          "type": "credit",
+          "timestamp": "2016-11-27T05:12:26.093Z",
+          "currency": "AUD",
+          "amount": 21.7,
+          "balanceBefore": -121.03,
+          "balanceAfter": -99.33
+        },
+        {
+          "id": "7f1b3912-40d7-42a3-b285-0c3f3b6bfa7e",
+          "type": "debit",
+          "timestamp": "2016-11-26T14:24:56.978Z",
+          "currency": "AUD",
+          "amount": 38.77,
+          "balanceBefore": -82.26,
+          "balanceAfter": -121.03
+        },
+        {
+          "id": "15ce8843-deb9-4dc4-9285-c3c13b6fc907",
+          "type": "debit",
+          "timestamp": "2016-11-24T17:53:41.159Z",
+          "currency": "AUD",
+          "amount": 46.2,
+          "balanceBefore": -36.06,
+          "balanceAfter": -82.26
+        },
+        {
+          "id": "834c3cfc-00dc-42d5-a28f-fe1552566a86",
+          "type": "debit",
+          "timestamp": "2016-11-24T13:59:15.833Z",
+          "currency": "AUD",
+          "amount": 36.06,
+          "balanceBefore": 0,
+          "balanceAfter": -36.06
+        },
+        {
+          "id": "dfcf0fc5-027f-49d5-be1a-336f3b4a758d",
+          "type": "credit",
+          "timestamp": "2016-11-23T07:20:26.006Z",
+          "currency": "AUD",
+          "amount": 0,
+          "balanceBefore": 0,
+          "balanceAfter": 0
+        }
+      ]
+    },
+    {
+      "id": "9f21a322-b913-495e-9d06-7163b421daa9",
+      "type": "Everyday Account",
+      "description": "A bank account for everyday access",
+      "createdAt": "Wed, 14 Dec 2016 04:11:52 GMT",
+      "updatedAt": null,
+      "owner": {
+        "id": "81763a81-71c9-4dcb-aa94-3fb433586076",
+        "createdAt": "Wed, 14 Dec 2016 04:11:52 GMT",
+        "updatedAt": null,
+        "email": "Richard Stallman",
+        "name": "Richard Stallman"
+      },
+      "balance": 7.86,
+      "transactions": [
+        {
+          "id": "10ee4a09-e98b-441e-ab4c-bb85620a29b2",
+          "type": "credit",
+          "timestamp": "2016-12-13T15:11:06.348Z",
+          "currency": "AUD",
+          "amount": 20.56,
+          "balanceBefore": -12.7,
+          "balanceAfter": 7.86
+        },
+        {
+          "id": "95e4a8ba-22e2-4b8d-bb72-3ba6d110b247",
+          "type": "debit",
+          "timestamp": "2016-12-11T18:07:38.171Z",
+          "currency": "AUD",
+          "amount": 48.15,
+          "balanceBefore": 35.45,
+          "balanceAfter": -12.7
+        },
+        {
+          "id": "98f52228-52de-418c-91f3-a632d8e6506a",
+          "type": "debit",
+          "timestamp": "2016-12-10T18:45:27.213Z",
+          "currency": "AUD",
+          "amount": 14.77,
+          "balanceBefore": 50.22,
+          "balanceAfter": 35.45
+        },
+        {
+          "id": "2023b51d-9ee9-4105-9c6e-846475ce84eb",
+          "type": "debit",
+          "timestamp": "2016-12-10T10:12:34.105Z",
+          "currency": "AUD",
+          "amount": 27.83,
+          "balanceBefore": 78.05,
+          "balanceAfter": 50.22
+        },
+        {
+          "id": "0a232b89-f9f8-4323-9efb-8f0a336d3eb7",
+          "type": "debit",
+          "timestamp": "2016-12-09T14:40:57.534Z",
+          "currency": "AUD",
+          "amount": 23.85,
+          "balanceBefore": 101.9,
+          "balanceAfter": 78.05
+        },
+        {
+          "id": "9b7a9edd-16f5-4522-bfd1-44e5c29e8b14",
+          "type": "credit",
+          "timestamp": "2016-12-08T01:07:54.253Z",
+          "currency": "AUD",
+          "amount": 32.77,
+          "balanceBefore": 69.13,
+          "balanceAfter": 101.9
+        },
+        {
+          "id": "cb469f64-1e8e-48cc-a6ae-95ea2718f8f2",
+          "type": "debit",
+          "timestamp": "2016-12-07T06:59:46.183Z",
+          "currency": "AUD",
+          "amount": 16.8,
+          "balanceBefore": 85.93,
+          "balanceAfter": 69.13
+        },
+        {
+          "id": "0f38511d-9f2f-49e9-ba54-886a070696ce",
+          "type": "credit",
+          "timestamp": "2016-12-06T15:31:16.854Z",
+          "currency": "AUD",
+          "amount": 11.26,
+          "balanceBefore": 74.67,
+          "balanceAfter": 85.93
+        },
+        {
+          "id": "35856fa2-99e5-4daa-8f5c-00b293db58f2",
+          "type": "debit",
+          "timestamp": "2016-12-05T05:56:24.044Z",
+          "currency": "AUD",
+          "amount": 31.05,
+          "balanceBefore": 105.72,
+          "balanceAfter": 74.67
+        },
+        {
+          "id": "4f0f4301-4a41-495c-810c-78353da443bf",
+          "type": "debit",
+          "timestamp": "2016-12-03T16:40:50.967Z",
+          "currency": "AUD",
+          "amount": 48.87,
+          "balanceBefore": 154.59,
+          "balanceAfter": 105.72
+        },
+        {
+          "id": "83725aa4-c444-440c-8c59-164ff866963a",
+          "type": "debit",
+          "timestamp": "2016-12-03T09:20:33.617Z",
+          "currency": "AUD",
+          "amount": 41.28,
+          "balanceBefore": 195.87,
+          "balanceAfter": 154.59
+        },
+        {
+          "id": "099a800d-99be-4d0c-82fb-1e2e62936e06",
+          "type": "debit",
+          "timestamp": "2016-12-02T05:35:14.701Z",
+          "currency": "AUD",
+          "amount": 31.09,
+          "balanceBefore": 226.96,
+          "balanceAfter": 195.87
+        },
+        {
+          "id": "02608242-d5ff-4426-be28-056ab6d73f79",
+          "type": "credit",
+          "timestamp": "2016-12-01T03:18:38.648Z",
+          "currency": "AUD",
+          "amount": 16.2,
+          "balanceBefore": 210.76,
+          "balanceAfter": 226.96
+        },
+        {
+          "id": "9639784a-9308-447b-ab4c-513fef3d30fd",
+          "type": "credit",
+          "timestamp": "2016-11-29T17:43:12.524Z",
+          "currency": "AUD",
+          "amount": 18.96,
+          "balanceBefore": 191.8,
+          "balanceAfter": 210.76
+        },
+        {
+          "id": "6f3776dd-f98f-4727-84fe-e68d7de1cb1f",
+          "type": "debit",
+          "timestamp": "2016-11-29T08:48:57.284Z",
+          "currency": "AUD",
+          "amount": 15.76,
+          "balanceBefore": 207.56,
+          "balanceAfter": 191.8
+        },
+        {
+          "id": "d087e31c-b8e8-4912-a804-6c4c99037e97",
+          "type": "debit",
+          "timestamp": "2016-11-27T21:19:39.167Z",
+          "currency": "AUD",
+          "amount": 34.79,
+          "balanceBefore": 242.35,
+          "balanceAfter": 207.56
+        },
+        {
+          "id": "055e9cdd-6e07-4340-a712-e866bc2ad703",
+          "type": "credit",
+          "timestamp": "2016-11-27T14:24:50.302Z",
+          "currency": "AUD",
+          "amount": 47.86,
+          "balanceBefore": 194.49,
+          "balanceAfter": 242.35
+        },
+        {
+          "id": "a2d21657-2afc-42ff-bede-0d7c4d8f3fcc",
+          "type": "debit",
+          "timestamp": "2016-11-25T18:13:54.330Z",
+          "currency": "AUD",
+          "amount": 40.47,
+          "balanceBefore": 234.96,
+          "balanceAfter": 194.49
+        },
+        {
+          "id": "f675275f-e44c-4fd5-9c77-4b8458e05e41",
+          "type": "credit",
+          "timestamp": "2016-11-25T00:40:08.048Z",
+          "currency": "AUD",
+          "amount": 53.42,
+          "balanceBefore": 181.54,
+          "balanceAfter": 234.96
+        },
+        {
+          "id": "018f98c5-2191-4f65-aae9-18c346c5304d",
+          "type": "debit",
+          "timestamp": "2016-11-24T15:05:06.964Z",
+          "currency": "AUD",
+          "amount": 27.77,
+          "balanceBefore": 209.31,
+          "balanceAfter": 181.54
+        },
+        {
+          "id": "5c013401-7796-406f-a2a8-42276f338164",
+          "type": "debit",
+          "timestamp": "2016-11-22T23:19:45.072Z",
+          "currency": "AUD",
+          "amount": 14.88,
+          "balanceBefore": 224.19,
+          "balanceAfter": 209.31
+        },
+        {
+          "id": "0b747c40-8f17-479c-b316-3ba85460119c",
+          "type": "debit",
+          "timestamp": "2016-11-22T04:36:26.047Z",
+          "currency": "AUD",
+          "amount": 8.02,
+          "balanceBefore": 232.21,
+          "balanceAfter": 224.19
+        },
+        {
+          "id": "08d84866-63cb-45d2-8691-5853099cde21",
+          "type": "debit",
+          "timestamp": "2016-11-21T01:02:39.611Z",
+          "currency": "AUD",
+          "amount": 18.41,
+          "balanceBefore": 250.62,
+          "balanceAfter": 232.21
+        },
+        {
+          "id": "5be900f5-c580-4578-b92f-5fe7ef5cdbd8",
+          "type": "debit",
+          "timestamp": "2016-11-20T00:23:09.831Z",
+          "currency": "AUD",
+          "amount": 4.98,
+          "balanceBefore": 255.6,
+          "balanceAfter": 250.62
+        },
+        {
+          "id": "6ec987a9-0881-44a6-8223-f718149da49b",
+          "type": "credit",
+          "timestamp": "2016-11-19T14:24:24.738Z",
+          "currency": "AUD",
+          "amount": 31.2,
+          "balanceBefore": 224.4,
+          "balanceAfter": 255.6
+        },
+        {
+          "id": "a32c65d1-fdc6-4c26-b36a-0f9c0a32e274",
+          "type": "debit",
+          "timestamp": "2016-11-18T01:50:41.471Z",
+          "currency": "AUD",
+          "amount": 32.67,
+          "balanceBefore": 257.07,
+          "balanceAfter": 224.4
+        },
+        {
+          "id": "f6a8a98c-87f5-4efd-8338-e4710d0dcc77",
+          "type": "debit",
+          "timestamp": "2016-11-16T18:13:30.372Z",
+          "currency": "AUD",
+          "amount": 25.83,
+          "balanceBefore": 282.9,
+          "balanceAfter": 257.07
+        },
+        {
+          "id": "0abc34de-f4cf-453e-a326-9c59dc1baef3",
+          "type": "debit",
+          "timestamp": "2016-11-16T08:26:51.779Z",
+          "currency": "AUD",
+          "amount": 25.53,
+          "balanceBefore": 308.43,
+          "balanceAfter": 282.9
+        },
+        {
+          "id": "0ba3c56c-0e90-44d3-bac9-0d85ecbf371e",
+          "type": "debit",
+          "timestamp": "2016-11-15T15:26:51.142Z",
+          "currency": "AUD",
+          "amount": 13.01,
+          "balanceBefore": 321.44,
+          "balanceAfter": 308.43
+        },
+        {
+          "id": "52d91ab0-2d82-4695-8c7e-6be0421a0251",
+          "type": "credit",
+          "timestamp": "2016-11-14T00:26:07.458Z",
+          "currency": "AUD",
+          "amount": 49.45,
+          "balanceBefore": 271.99,
+          "balanceAfter": 321.44
+        },
+        {
+          "id": "60ec36a0-5807-4855-849c-ad10b4ff483a",
+          "type": "debit",
+          "timestamp": "2016-11-13T09:20:51.659Z",
+          "currency": "AUD",
+          "amount": 47.03,
+          "balanceBefore": 319.02,
+          "balanceAfter": 271.99
+        },
+        {
+          "id": "2331dc9d-9717-4c9e-9abd-c1fb117ba1e7",
+          "type": "debit",
+          "timestamp": "2016-11-12T08:17:37.606Z",
+          "currency": "AUD",
+          "amount": 30.4,
+          "balanceBefore": 349.42,
+          "balanceAfter": 319.02
+        },
+        {
+          "id": "0f8456e5-8de6-45b2-a225-56805d3d0a9b",
+          "type": "debit",
+          "timestamp": "2016-11-11T14:09:29.886Z",
+          "currency": "AUD",
+          "amount": 7.71,
+          "balanceBefore": 357.13,
+          "balanceAfter": 349.42
+        },
+        {
+          "id": "17fe2ad4-eb6d-45e6-92ef-8581437e4bf9",
+          "type": "credit",
+          "timestamp": "2016-11-09T17:37:58.003Z",
+          "currency": "AUD",
+          "amount": 41.25,
+          "balanceBefore": 315.88,
+          "balanceAfter": 357.13
+        },
+        {
+          "id": "a6283754-3d54-4f97-a8de-eebccc14180b",
+          "type": "debit",
+          "timestamp": "2016-11-09T00:52:03.706Z",
+          "currency": "AUD",
+          "amount": 32.23,
+          "balanceBefore": 348.11,
+          "balanceAfter": 315.88
+        },
+        {
+          "id": "075df781-f46f-460b-a575-7c964f11ed25",
+          "type": "credit",
+          "timestamp": "2016-11-07T20:57:22.612Z",
+          "currency": "AUD",
+          "amount": 45.62,
+          "balanceBefore": 302.49,
+          "balanceAfter": 348.11
+        },
+        {
+          "id": "57eaf8c5-db86-4a74-a490-5b2b8490f578",
+          "type": "credit",
+          "timestamp": "2016-11-07T02:29:22.239Z",
+          "currency": "AUD",
+          "amount": 2.19,
+          "balanceBefore": 300.3,
+          "balanceAfter": 302.49
+        },
+        {
+          "id": "0b8e8747-977f-4736-b7f7-945ebc3f40df",
+          "type": "debit",
+          "timestamp": "2016-11-06T14:34:47.112Z",
+          "currency": "AUD",
+          "amount": 9.7,
+          "balanceBefore": 310,
+          "balanceAfter": 300.3
+        },
+        {
+          "id": "d753f7e2-31c5-4985-9902-5b63b9b29fbb",
+          "type": "credit",
+          "timestamp": "2016-11-04T21:06:22.116Z",
+          "currency": "AUD",
+          "amount": 36.52,
+          "balanceBefore": 273.48,
+          "balanceAfter": 310
+        },
+        {
+          "id": "808aa0c4-b57c-4246-b1f5-9a50e253f488",
+          "type": "debit",
+          "timestamp": "2016-11-04T02:47:19.452Z",
+          "currency": "AUD",
+          "amount": 9.66,
+          "balanceBefore": 283.14,
+          "balanceAfter": 273.48
+        },
+        {
+          "id": "66c2ea56-c825-4cee-9a33-7f1e29f02129",
+          "type": "credit",
+          "timestamp": "2016-11-03T00:36:13.748Z",
+          "currency": "AUD",
+          "amount": 3.4,
+          "balanceBefore": 279.74,
+          "balanceAfter": 283.14
+        },
+        {
+          "id": "3b8349cf-6a23-41ce-ab31-78b76f93351d",
+          "type": "debit",
+          "timestamp": "2016-11-01T20:51:29.452Z",
+          "currency": "AUD",
+          "amount": 24.71,
+          "balanceBefore": 304.45,
+          "balanceAfter": 279.74
+        },
+        {
+          "id": "24d91c78-bafc-4cfd-b30c-554cd2f174b2",
+          "type": "debit",
+          "timestamp": "2016-11-01T15:25:08.812Z",
+          "currency": "AUD",
+          "amount": 17.23,
+          "balanceBefore": 321.68,
+          "balanceAfter": 304.45
+        },
+        {
+          "id": "48ee3763-5f6e-40e5-80d2-00174f4d1da7",
+          "type": "debit",
+          "timestamp": "2016-10-31T04:54:24.755Z",
+          "currency": "AUD",
+          "amount": 34.66,
+          "balanceBefore": 356.34,
+          "balanceAfter": 321.68
+        },
+        {
+          "id": "8f0c65b0-300c-4bd1-b6aa-6cd62bbf36e5",
+          "type": "debit",
+          "timestamp": "2016-10-30T03:14:52.841Z",
+          "currency": "AUD",
+          "amount": 7.09,
+          "balanceBefore": 363.43,
+          "balanceAfter": 356.34
+        },
+        {
+          "id": "5587c30e-5493-45a0-ae11-2a822f638d7f",
+          "type": "credit",
+          "timestamp": "2016-10-28T23:24:42.541Z",
+          "currency": "AUD",
+          "amount": 68.46,
+          "balanceBefore": 294.97,
+          "balanceAfter": 363.43
+        },
+        {
+          "id": "ddac906c-489b-43fa-9128-d65003ec36f6",
+          "type": "credit",
+          "timestamp": "2016-10-27T22:06:06.218Z",
+          "currency": "AUD",
+          "amount": 43.26,
+          "balanceBefore": 251.71,
+          "balanceAfter": 294.97
+        },
+        {
+          "id": "155574d6-726e-45ba-a8a8-d38ed33aa244",
+          "type": "credit",
+          "timestamp": "2016-10-26T21:57:57.020Z",
+          "currency": "AUD",
+          "amount": 75.06,
+          "balanceBefore": 176.65,
+          "balanceAfter": 251.71
+        },
+        {
+          "id": "f4d3799c-9fdf-4874-8bd8-6029e9b3d11a",
+          "type": "credit",
+          "timestamp": "2016-10-26T07:30:55.886Z",
+          "currency": "AUD",
+          "amount": 64.06,
+          "balanceBefore": 112.59,
+          "balanceAfter": 176.65
+        },
+        {
+          "id": "2c240211-2ba8-4fc1-b948-602a89092b7f",
+          "type": "debit",
+          "timestamp": "2016-10-25T07:54:49.365Z",
+          "currency": "AUD",
+          "amount": 48.3,
+          "balanceBefore": 160.89,
+          "balanceAfter": 112.59
+        },
+        {
+          "id": "0671259e-26a5-42e7-9b53-ad8f7f9c8832",
+          "type": "debit",
+          "timestamp": "2016-10-23T17:42:10.400Z",
+          "currency": "AUD",
+          "amount": 29.39,
+          "balanceBefore": 190.28,
+          "balanceAfter": 160.89
+        },
+        {
+          "id": "4c3069fa-12e4-46b5-8c1a-6db1978e0e93",
+          "type": "credit",
+          "timestamp": "2016-10-23T01:24:47.933Z",
+          "currency": "AUD",
+          "amount": 19.78,
+          "balanceBefore": 170.5,
+          "balanceAfter": 190.28
+        },
+        {
+          "id": "da21880c-1af7-403b-84d0-5739dcef6bd6",
+          "type": "debit",
+          "timestamp": "2016-10-22T06:10:45.847Z",
+          "currency": "AUD",
+          "amount": 15.97,
+          "balanceBefore": 186.47,
+          "balanceAfter": 170.5
+        },
+        {
+          "id": "83e765f4-3f00-45dd-9feb-5e4cdbf35099",
+          "type": "debit",
+          "timestamp": "2016-10-21T12:57:47.590Z",
+          "currency": "AUD",
+          "amount": 46.34,
+          "balanceBefore": 232.81,
+          "balanceAfter": 186.47
+        },
+        {
+          "id": "ccbd1b6a-3935-4f7f-949f-f6133c903b19",
+          "type": "credit",
+          "timestamp": "2016-10-20T12:13:44.666Z",
+          "currency": "AUD",
+          "amount": 59.4,
+          "balanceBefore": 173.41,
+          "balanceAfter": 232.81
+        },
+        {
+          "id": "0419fcbf-edc9-46c1-8b20-b7d2d475ce75",
+          "type": "credit",
+          "timestamp": "2016-10-19T01:26:36.521Z",
+          "currency": "AUD",
+          "amount": 29.65,
+          "balanceBefore": 143.76,
+          "balanceAfter": 173.41
+        },
+        {
+          "id": "4ea9e5b7-33fa-442d-b9bf-8996f1617db9",
+          "type": "debit",
+          "timestamp": "2016-10-18T08:55:09.894Z",
+          "currency": "AUD",
+          "amount": 2.12,
+          "balanceBefore": 145.88,
+          "balanceAfter": 143.76
+        },
+        {
+          "id": "e6d6a039-f853-4d2d-af1f-e84a92129bd8",
+          "type": "credit",
+          "timestamp": "2016-10-16T21:40:53.311Z",
+          "currency": "AUD",
+          "amount": 19.77,
+          "balanceBefore": 126.11,
+          "balanceAfter": 145.88
+        },
+        {
+          "id": "71019ce9-b700-43cb-b8a8-0239a6e14f9d",
+          "type": "credit",
+          "timestamp": "2016-10-15T16:51:03.522Z",
+          "currency": "AUD",
+          "amount": 22.81,
+          "balanceBefore": 103.3,
+          "balanceAfter": 126.11
+        },
+        {
+          "id": "a68abda9-5994-45e1-9c7a-2c75c2e767e0",
+          "type": "credit",
+          "timestamp": "2016-10-15T11:11:34.534Z",
+          "currency": "AUD",
+          "amount": 34.5,
+          "balanceBefore": 68.8,
+          "balanceAfter": 103.3
+        },
+        {
+          "id": "3e350e7e-c57b-4b29-bd92-23529cb9861a",
+          "type": "debit",
+          "timestamp": "2016-10-14T01:11:17.875Z",
+          "currency": "AUD",
+          "amount": 49.02,
+          "balanceBefore": 117.82,
+          "balanceAfter": 68.8
+        },
+        {
+          "id": "ccdf4578-fc38-457f-a999-2904add89169",
+          "type": "credit",
+          "timestamp": "2016-10-13T00:17:21.513Z",
+          "currency": "AUD",
+          "amount": 62.11,
+          "balanceBefore": 55.71,
+          "balanceAfter": 117.82
+        },
+        {
+          "id": "04d4b1c0-a5cd-4407-b250-8688b8539334",
+          "type": "debit",
+          "timestamp": "2016-10-12T04:14:20.650Z",
+          "currency": "AUD",
+          "amount": 28.3,
+          "balanceBefore": 84.01,
+          "balanceAfter": 55.71
+        },
+        {
+          "id": "76626585-c34e-4d05-b16f-345b485016ab",
+          "type": "credit",
+          "timestamp": "2016-10-10T21:33:37.493Z",
+          "currency": "AUD",
+          "amount": 21.87,
+          "balanceBefore": 62.14,
+          "balanceAfter": 84.01
+        },
+        {
+          "id": "e2a0f567-eaa4-417a-8307-21ab4afc97b6",
+          "type": "debit",
+          "timestamp": "2016-10-10T15:46:18.609Z",
+          "currency": "AUD",
+          "amount": 18.89,
+          "balanceBefore": 81.03,
+          "balanceAfter": 62.14
+        },
+        {
+          "id": "5ad55f49-4bba-4569-a9cb-ccae597a09e0",
+          "type": "debit",
+          "timestamp": "2016-10-09T05:22:25.740Z",
+          "currency": "AUD",
+          "amount": 2.75,
+          "balanceBefore": 83.78,
+          "balanceAfter": 81.03
+        },
+        {
+          "id": "42d00595-247b-4597-b86e-aaf5537ebd8b",
+          "type": "credit",
+          "timestamp": "2016-10-08T03:12:54.160Z",
+          "currency": "AUD",
+          "amount": 74.84,
+          "balanceBefore": 8.94,
+          "balanceAfter": 83.78
+        },
+        {
+          "id": "5af4125f-6deb-4f28-99fc-abc59f1b6b95",
+          "type": "credit",
+          "timestamp": "2016-10-07T15:46:55.270Z",
+          "currency": "AUD",
+          "amount": 34.84,
+          "balanceBefore": -25.9,
+          "balanceAfter": 8.94
+        },
+        {
+          "id": "2ef61d33-eddb-434d-906e-c441727c15b7",
+          "type": "credit",
+          "timestamp": "2016-10-05T16:11:56.419Z",
+          "currency": "AUD",
+          "amount": 3.61,
+          "balanceBefore": -29.51,
+          "balanceAfter": -25.9
+        },
+        {
+          "id": "dbe91f4c-9926-4061-b061-971bc095c095",
+          "type": "debit",
+          "timestamp": "2016-10-05T04:23:30.758Z",
+          "currency": "AUD",
+          "amount": 29.51,
+          "balanceBefore": 0,
+          "balanceAfter": -29.51
+        },
+        {
+          "id": "2a2c97d5-c078-4477-935a-01a006d78235",
+          "type": "credit",
+          "timestamp": "2016-10-04T11:40:43.985Z",
+          "currency": "AUD",
+          "amount": 0,
+          "balanceBefore": 0,
+          "balanceAfter": 0
+        }
+      ]
+    },
+    {
+      "id": "f60633b8-c107-4733-aa5d-beb2d71c9a95",
+      "type": "Visa Debit Account",
+      "description": "Simple visa debit access account",
+      "icon": "credit_card",
+      "createdAt": "Wed, 14 Dec 2016 04:11:52 GMT",
+      "updatedAt": null,
+      "owner": {
+        "id": "81763a81-71c9-4dcb-aa94-3fb433586076",
+        "createdAt": "Wed, 14 Dec 2016 04:11:52 GMT",
+        "updatedAt": null,
+        "email": "Richard Stallman",
+        "name": "Richard Stallman"
+      },
+      "balance": 270.06,
+      "transactions": [
+        {
+          "id": "4a5e23e5-15be-4f50-be28-aa32ae71e455",
+          "type": "debit",
+          "timestamp": "2016-12-12T23:44:21.890Z",
+          "currency": "AUD",
+          "amount": 2.35,
+          "balanceBefore": 272.41,
+          "balanceAfter": 270.06
+        },
+        {
+          "id": "719bbcbd-5570-4794-bce0-4825184b6bb6",
+          "type": "debit",
+          "timestamp": "2016-12-12T11:43:54.185Z",
+          "currency": "AUD",
+          "amount": 40.45,
+          "balanceBefore": 312.86,
+          "balanceAfter": 272.41
+        },
+        {
+          "id": "f9fd0e98-25e9-4728-ac06-6b0cc51aace2",
+          "type": "credit",
+          "timestamp": "2016-12-10T16:52:43.642Z",
+          "currency": "AUD",
+          "amount": 53.57,
+          "balanceBefore": 259.29,
+          "balanceAfter": 312.86
+        },
+        {
+          "id": "46e3467e-8539-477b-914c-bd9064d32a2d",
+          "type": "debit",
+          "timestamp": "2016-12-10T07:37:59.710Z",
+          "currency": "AUD",
+          "amount": 43.94,
+          "balanceBefore": 303.23,
+          "balanceAfter": 259.29
+        },
+        {
+          "id": "fa9b8919-4f1d-480d-b0bd-633f9da97c91",
+          "type": "credit",
+          "timestamp": "2016-12-09T15:24:39.007Z",
+          "currency": "AUD",
+          "amount": 55.19,
+          "balanceBefore": 248.04,
+          "balanceAfter": 303.23
+        },
+        {
+          "id": "edb94379-ff33-41e1-b532-025d6859673c",
+          "type": "credit",
+          "timestamp": "2016-12-08T01:09:33.233Z",
+          "currency": "AUD",
+          "amount": 71.28,
+          "balanceBefore": 176.76,
+          "balanceAfter": 248.04
+        },
+        {
+          "id": "232d689e-2af7-429c-bb08-7749f88d7729",
+          "type": "credit",
+          "timestamp": "2016-12-07T04:58:40.441Z",
+          "currency": "AUD",
+          "amount": 25.65,
+          "balanceBefore": 151.11,
+          "balanceAfter": 176.76
+        },
+        {
+          "id": "b7f06d37-c987-4377-a965-40c6af86b0f3",
+          "type": "credit",
+          "timestamp": "2016-12-06T02:05:06.017Z",
+          "currency": "AUD",
+          "amount": 70.66,
+          "balanceBefore": 80.45,
+          "balanceAfter": 151.11
+        },
+        {
+          "id": "103b556c-f269-41a5-b4da-f9f456fe907a",
+          "type": "debit",
+          "timestamp": "2016-12-04T17:34:40.099Z",
+          "currency": "AUD",
+          "amount": 22.18,
+          "balanceBefore": 102.63,
+          "balanceAfter": 80.45
+        },
+        {
+          "id": "b4acb735-207f-41a2-a553-24f60b1ed0df",
+          "type": "debit",
+          "timestamp": "2016-12-04T10:17:05.979Z",
+          "currency": "AUD",
+          "amount": 14.04,
+          "balanceBefore": 116.67,
+          "balanceAfter": 102.63
+        },
+        {
+          "id": "28b91952-085b-41fb-8c18-f7596351941d",
+          "type": "debit",
+          "timestamp": "2016-12-02T17:08:15.756Z",
+          "currency": "AUD",
+          "amount": 39.32,
+          "balanceBefore": 155.99,
+          "balanceAfter": 116.67
+        },
+        {
+          "id": "b745881d-0908-42fc-828b-a5b36db1b82d",
+          "type": "debit",
+          "timestamp": "2016-12-02T06:41:22.832Z",
+          "currency": "AUD",
+          "amount": 1.18,
+          "balanceBefore": 157.17,
+          "balanceAfter": 155.99
+        },
+        {
+          "id": "3ec6472c-95e1-40e1-8120-85fd0ced5654",
+          "type": "credit",
+          "timestamp": "2016-12-01T11:06:59.642Z",
+          "currency": "AUD",
+          "amount": 63.27,
+          "balanceBefore": 93.9,
+          "balanceAfter": 157.17
+        },
+        {
+          "id": "c9586f84-a40f-4053-82e9-d9c31a8a32fe",
+          "type": "credit",
+          "timestamp": "2016-11-29T18:58:54.262Z",
+          "currency": "AUD",
+          "amount": 13.46,
+          "balanceBefore": 80.44,
+          "balanceAfter": 93.9
+        },
+        {
+          "id": "ece9c18d-665f-4350-a429-69c351c731e3",
+          "type": "debit",
+          "timestamp": "2016-11-28T17:26:18.056Z",
+          "currency": "AUD",
+          "amount": 23.27,
+          "balanceBefore": 103.71,
+          "balanceAfter": 80.44
+        },
+        {
+          "id": "40e58c38-955f-4ed8-8b14-9148e94fdd9b",
+          "type": "credit",
+          "timestamp": "2016-11-28T06:38:56.648Z",
+          "currency": "AUD",
+          "amount": 34.09,
+          "balanceBefore": 69.62,
+          "balanceAfter": 103.71
+        },
+        {
+          "id": "e4fb2de3-ec57-4bf7-bd90-a9f53a4c4f54",
+          "type": "debit",
+          "timestamp": "2016-11-26T18:07:22.711Z",
+          "currency": "AUD",
+          "amount": 7.83,
+          "balanceBefore": 77.45,
+          "balanceAfter": 69.62
+        },
+        {
+          "id": "dbb24a79-8a33-4fb9-99f1-c5e12ab95060",
+          "type": "credit",
+          "timestamp": "2016-11-26T00:08:18.334Z",
+          "currency": "AUD",
+          "amount": 47.22,
+          "balanceBefore": 30.23,
+          "balanceAfter": 77.45
+        },
+        {
+          "id": "dde800bb-3e88-430e-8e50-7f55e1db82b5",
+          "type": "credit",
+          "timestamp": "2016-11-24T22:48:50.416Z",
+          "currency": "AUD",
+          "amount": 16.38,
+          "balanceBefore": 13.85,
+          "balanceAfter": 30.23
+        },
+        {
+          "id": "bc217d20-3b03-4bcc-9157-4518ed17cb40",
+          "type": "debit",
+          "timestamp": "2016-11-23T16:17:51.836Z",
+          "currency": "AUD",
+          "amount": 17.51,
+          "balanceBefore": 31.36,
+          "balanceAfter": 13.85
+        },
+        {
+          "id": "dacf2927-3939-4e08-9442-8e63a3140207",
+          "type": "credit",
+          "timestamp": "2016-11-23T01:43:15.884Z",
+          "currency": "AUD",
+          "amount": 53.83,
+          "balanceBefore": -22.47,
+          "balanceAfter": 31.36
+        },
+        {
+          "id": "f84c511e-a493-45f7-9561-b01f869fac55",
+          "type": "debit",
+          "timestamp": "2016-11-21T21:19:21.926Z",
+          "currency": "AUD",
+          "amount": 36.1,
+          "balanceBefore": 13.63,
+          "balanceAfter": -22.47
+        },
+        {
+          "id": "c76e16a9-92e2-4c06-9fb0-c6ac83687511",
+          "type": "debit",
+          "timestamp": "2016-11-21T02:34:32.966Z",
+          "currency": "AUD",
+          "amount": 32.59,
+          "balanceBefore": 46.22,
+          "balanceAfter": 13.63
+        },
+        {
+          "id": "b3c1c4a1-00d7-49c5-a1eb-1e55fb9268df",
+          "type": "debit",
+          "timestamp": "2016-11-20T03:54:26.859Z",
+          "currency": "AUD",
+          "amount": 40.19,
+          "balanceBefore": 86.41,
+          "balanceAfter": 46.22
+        },
+        {
+          "id": "bdb8f6fe-24e3-4142-81b0-11280f1f1792",
+          "type": "debit",
+          "timestamp": "2016-11-19T07:38:38.135Z",
+          "currency": "AUD",
+          "amount": 24.62,
+          "balanceBefore": 111.03,
+          "balanceAfter": 86.41
+        },
+        {
+          "id": "0d55e2a1-e3c4-4117-a6da-38f98e3323c8",
+          "type": "debit",
+          "timestamp": "2016-11-18T04:22:48.754Z",
+          "currency": "AUD",
+          "amount": 49.94,
+          "balanceBefore": 160.97,
+          "balanceAfter": 111.03
+        },
+        {
+          "id": "96f6305e-c6f8-4931-987e-66f4c07fc7e2",
+          "type": "debit",
+          "timestamp": "2016-11-16T20:19:05.671Z",
+          "currency": "AUD",
+          "amount": 31.59,
+          "balanceBefore": 192.56,
+          "balanceAfter": 160.97
+        },
+        {
+          "id": "47461cd0-9faf-42e6-9c6e-658b61906435",
+          "type": "credit",
+          "timestamp": "2016-11-16T11:52:08.499Z",
+          "currency": "AUD",
+          "amount": 38.06,
+          "balanceBefore": 154.5,
+          "balanceAfter": 192.56
+        },
+        {
+          "id": "ff5ee4ea-d1e8-41aa-899f-d1b41429bb45",
+          "type": "credit",
+          "timestamp": "2016-11-15T09:50:55.627Z",
+          "currency": "AUD",
+          "amount": 57.99,
+          "balanceBefore": 96.51,
+          "balanceAfter": 154.5
+        },
+        {
+          "id": "c2e070ec-1e52-4c6d-8052-be009d9577c9",
+          "type": "debit",
+          "timestamp": "2016-11-13T23:24:04.804Z",
+          "currency": "AUD",
+          "amount": 9.72,
+          "balanceBefore": 106.23,
+          "balanceAfter": 96.51
+        },
+        {
+          "id": "da399962-c79f-42c1-8f84-6c23d05e8cc1",
+          "type": "credit",
+          "timestamp": "2016-11-13T12:25:46.160Z",
+          "currency": "AUD",
+          "amount": 73.92,
+          "balanceBefore": 32.31,
+          "balanceAfter": 106.23
+        },
+        {
+          "id": "32d2a7a5-f538-4fe4-b53e-335643f32630",
+          "type": "debit",
+          "timestamp": "2016-11-11T20:11:21.848Z",
+          "currency": "AUD",
+          "amount": 47.98,
+          "balanceBefore": 80.29,
+          "balanceAfter": 32.31
+        },
+        {
+          "id": "f1199c06-47f1-42a9-8bd7-a6b4d8a6cc9d",
+          "type": "debit",
+          "timestamp": "2016-11-11T02:36:07.302Z",
+          "currency": "AUD",
+          "amount": 46.44,
+          "balanceBefore": 126.73,
+          "balanceAfter": 80.29
+        },
+        {
+          "id": "b6ee6cd6-d7bb-4842-a898-3e8f714e29ab",
+          "type": "debit",
+          "timestamp": "2016-11-10T08:17:28.780Z",
+          "currency": "AUD",
+          "amount": 40.5,
+          "balanceBefore": 167.23,
+          "balanceAfter": 126.73
+        },
+        {
+          "id": "2b9b2b0e-47c7-4f83-b71d-86097d9239e2",
+          "type": "credit",
+          "timestamp": "2016-11-08T16:16:58.633Z",
+          "currency": "AUD",
+          "amount": 66.91,
+          "balanceBefore": 100.32,
+          "balanceAfter": 167.23
+        },
+        {
+          "id": "536d0ddc-bbc1-4ed8-93e1-387052c55d92",
+          "type": "credit",
+          "timestamp": "2016-11-08T00:06:40.184Z",
+          "currency": "AUD",
+          "amount": 8.91,
+          "balanceBefore": 91.41,
+          "balanceAfter": 100.32
+        },
+        {
+          "id": "88c90ec6-881d-4fe3-8751-ba9e4967b752",
+          "type": "credit",
+          "timestamp": "2016-11-07T14:06:53.866Z",
+          "currency": "AUD",
+          "amount": 59.43,
+          "balanceBefore": 31.98,
+          "balanceAfter": 91.41
+        },
+        {
+          "id": "22bddc20-e463-4961-b792-f1356921d717",
+          "type": "credit",
+          "timestamp": "2016-11-06T09:42:34.030Z",
+          "currency": "AUD",
+          "amount": 33.29,
+          "balanceBefore": -1.31,
+          "balanceAfter": 31.98
+        },
+        {
+          "id": "6c4769f3-834e-43e3-8f6d-ae4dbf17c368",
+          "type": "debit",
+          "timestamp": "2016-11-05T12:43:21.355Z",
+          "currency": "AUD",
+          "amount": 27.17,
+          "balanceBefore": 25.86,
+          "balanceAfter": -1.31
+        },
+        {
+          "id": "0faea295-1bb7-4180-9632-0a4a6bd6d311",
+          "type": "credit",
+          "timestamp": "2016-11-04T05:24:27.713Z",
+          "currency": "AUD",
+          "amount": 34.16,
+          "balanceBefore": -8.3,
+          "balanceAfter": 25.86
+        },
+        {
+          "id": "56d7c197-6be8-4b3a-a469-577b363189d2",
+          "type": "debit",
+          "timestamp": "2016-11-03T04:17:16.398Z",
+          "currency": "AUD",
+          "amount": 8.3,
+          "balanceBefore": 0,
+          "balanceAfter": -8.3
+        },
+        {
+          "id": "82d937b5-3aaa-48da-8c74-9a327cef1f32",
+          "type": "credit",
+          "timestamp": "2016-11-02T08:12:13.279Z",
+          "currency": "AUD",
+          "amount": 0,
+          "balanceBefore": 0,
+          "balanceAfter": 0
+        }
+      ]
+    },
+    {
+      "id": "da322c14-3ff3-4f96-b6f7-1a4f29f6a98b",
+      "type": "Kids Banking Account",
+      "description": "Help make banking fun for kids!",
+      "icon": "child_care",
+      "createdAt": "Wed, 14 Dec 2016 04:11:52 GMT",
+      "updatedAt": null,
+      "owner": {
+        "id": "81763a81-71c9-4dcb-aa94-3fb433586076",
+        "createdAt": "Wed, 14 Dec 2016 04:11:52 GMT",
+        "updatedAt": null,
+        "email": "Richard Stallman",
+        "name": "Richard Stallman"
+      },
+      "balance": 753.48,
+      "transactions": [
+        {
+          "id": "06e965c5-299f-466c-a4f0-591326cc0190",
+          "type": "credit",
+          "timestamp": "2016-12-13T14:39:48.239Z",
+          "currency": "AUD",
+          "amount": 16.13,
+          "balanceBefore": 737.35,
+          "balanceAfter": 753.48
+        },
+        {
+          "id": "cf2d502c-c085-4f3f-996d-4f0984b24fc1",
+          "type": "credit",
+          "timestamp": "2016-12-12T10:17:37.221Z",
+          "currency": "AUD",
+          "amount": 3.71,
+          "balanceBefore": 733.64,
+          "balanceAfter": 737.35
+        },
+        {
+          "id": "a7a78f3e-dc27-47a2-9b5c-65753b62ad40",
+          "type": "credit",
+          "timestamp": "2016-12-11T02:05:59.725Z",
+          "currency": "AUD",
+          "amount": 55.12,
+          "balanceBefore": 678.52,
+          "balanceAfter": 733.64
+        },
+        {
+          "id": "2605695f-ca03-4ead-83f6-7e491b12d0c6",
+          "type": "credit",
+          "timestamp": "2016-12-10T10:35:22.396Z",
+          "currency": "AUD",
+          "amount": 45.16,
+          "balanceBefore": 633.36,
+          "balanceAfter": 678.52
+        },
+        {
+          "id": "58aadbba-1325-4e20-ad07-71077a4ef357",
+          "type": "debit",
+          "timestamp": "2016-12-08T18:02:09.100Z",
+          "currency": "AUD",
+          "amount": 12.63,
+          "balanceBefore": 645.99,
+          "balanceAfter": 633.36
+        },
+        {
+          "id": "bc897234-9436-4acc-9bab-8dad294cf206",
+          "type": "debit",
+          "timestamp": "2016-12-08T13:27:23.003Z",
+          "currency": "AUD",
+          "amount": 13.02,
+          "balanceBefore": 659.01,
+          "balanceAfter": 645.99
+        },
+        {
+          "id": "9394ade6-199f-48e0-ba6f-74f6b7d99fa5",
+          "type": "debit",
+          "timestamp": "2016-12-07T14:19:34.793Z",
+          "currency": "AUD",
+          "amount": 10.23,
+          "balanceBefore": 669.24,
+          "balanceAfter": 659.01
+        },
+        {
+          "id": "abe71bd3-aaa5-49aa-abfb-78230bfb7863",
+          "type": "debit",
+          "timestamp": "2016-12-06T00:22:24.435Z",
+          "currency": "AUD",
+          "amount": 49.97,
+          "balanceBefore": 719.21,
+          "balanceAfter": 669.24
+        },
+        {
+          "id": "6c6a7281-6579-48b0-bb85-1c409a19bd6b",
+          "type": "credit",
+          "timestamp": "2016-12-05T13:38:59.713Z",
+          "currency": "AUD",
+          "amount": 58.6,
+          "balanceBefore": 660.61,
+          "balanceAfter": 719.21
+        },
+        {
+          "id": "1bb7474f-91f1-4434-9d24-af047e471ce7",
+          "type": "debit",
+          "timestamp": "2016-12-03T17:24:20.968Z",
+          "currency": "AUD",
+          "amount": 45.43,
+          "balanceBefore": 706.04,
+          "balanceAfter": 660.61
+        },
+        {
+          "id": "92c59578-225e-4ff5-9443-2d8ed3b3acb7",
+          "type": "credit",
+          "timestamp": "2016-12-03T06:31:39.382Z",
+          "currency": "AUD",
+          "amount": 4.38,
+          "balanceBefore": 701.66,
+          "balanceAfter": 706.04
+        },
+        {
+          "id": "d6fc1b6c-5e66-4f71-b725-f84ec14a7218",
+          "type": "credit",
+          "timestamp": "2016-12-01T21:57:23.057Z",
+          "currency": "AUD",
+          "amount": 3.91,
+          "balanceBefore": 697.75,
+          "balanceAfter": 701.66
+        },
+        {
+          "id": "c8de0d71-091e-4445-9dd7-42c58237c746",
+          "type": "credit",
+          "timestamp": "2016-11-30T18:56:25.293Z",
+          "currency": "AUD",
+          "amount": 42.75,
+          "balanceBefore": 655,
+          "balanceAfter": 697.75
+        },
+        {
+          "id": "ce32fe15-c8da-4b9c-81e4-2468f78542ca",
+          "type": "credit",
+          "timestamp": "2016-11-30T01:35:42.792Z",
+          "currency": "AUD",
+          "amount": 21.3,
+          "balanceBefore": 633.7,
+          "balanceAfter": 655
+        },
+        {
+          "id": "b289e892-61c7-460e-8564-c7e952a53352",
+          "type": "debit",
+          "timestamp": "2016-11-29T06:36:53.199Z",
+          "currency": "AUD",
+          "amount": 27.21,
+          "balanceBefore": 660.91,
+          "balanceAfter": 633.7
+        },
+        {
+          "id": "a238ad8c-d262-4010-9458-aaf525fafdcc",
+          "type": "credit",
+          "timestamp": "2016-11-28T14:36:28.760Z",
+          "currency": "AUD",
+          "amount": 68.99,
+          "balanceBefore": 591.92,
+          "balanceAfter": 660.91
+        },
+        {
+          "id": "bb328b57-a3ea-4f15-9653-d8e3b842a32c",
+          "type": "credit",
+          "timestamp": "2016-11-27T00:52:47.601Z",
+          "currency": "AUD",
+          "amount": 2.19,
+          "balanceBefore": 589.73,
+          "balanceAfter": 591.92
+        },
+        {
+          "id": "c3431a1e-61ab-416a-b721-96f2a511bd58",
+          "type": "credit",
+          "timestamp": "2016-11-26T00:33:27.351Z",
+          "currency": "AUD",
+          "amount": 43.04,
+          "balanceBefore": 546.69,
+          "balanceAfter": 589.73
+        },
+        {
+          "id": "f0468c94-e8eb-4a3e-a313-522654259707",
+          "type": "credit",
+          "timestamp": "2016-11-25T02:48:21.974Z",
+          "currency": "AUD",
+          "amount": 61.01,
+          "balanceBefore": 485.68,
+          "balanceAfter": 546.69
+        },
+        {
+          "id": "5dc21a6c-0f7b-4ccf-90ae-0b5e9866406c",
+          "type": "credit",
+          "timestamp": "2016-11-23T22:48:13.325Z",
+          "currency": "AUD",
+          "amount": 70.2,
+          "balanceBefore": 415.48,
+          "balanceAfter": 485.68
+        },
+        {
+          "id": "cea26de6-3dad-4156-9a33-0c8cc2dead64",
+          "type": "credit",
+          "timestamp": "2016-11-22T21:42:49.505Z",
+          "currency": "AUD",
+          "amount": 32.6,
+          "balanceBefore": 382.88,
+          "balanceAfter": 415.48
+        },
+        {
+          "id": "fe1dc248-b40e-428c-8bc8-056f0f57ca6b",
+          "type": "credit",
+          "timestamp": "2016-11-21T17:07:38.218Z",
+          "currency": "AUD",
+          "amount": 6.15,
+          "balanceBefore": 376.73,
+          "balanceAfter": 382.88
+        },
+        {
+          "id": "ac376b32-ce1b-42d5-b9bf-2e522a19f3c7",
+          "type": "credit",
+          "timestamp": "2016-11-21T11:49:58.025Z",
+          "currency": "AUD",
+          "amount": 10.46,
+          "balanceBefore": 366.27,
+          "balanceAfter": 376.73
+        },
+        {
+          "id": "11e13f54-2799-4103-b971-801c1ac18dfb",
+          "type": "debit",
+          "timestamp": "2016-11-19T19:15:52.923Z",
+          "currency": "AUD",
+          "amount": 12.41,
+          "balanceBefore": 378.68,
+          "balanceAfter": 366.27
+        },
+        {
+          "id": "a776de97-da75-472c-90e0-6c8cdc7f95ad",
+          "type": "credit",
+          "timestamp": "2016-11-19T05:37:12.981Z",
+          "currency": "AUD",
+          "amount": 16.11,
+          "balanceBefore": 362.57,
+          "balanceAfter": 378.68
+        },
+        {
+          "id": "9896e0bd-974a-4cd4-bf0d-c1cda20d60a6",
+          "type": "credit",
+          "timestamp": "2016-11-17T18:46:18.201Z",
+          "currency": "AUD",
+          "amount": 19.75,
+          "balanceBefore": 342.82,
+          "balanceAfter": 362.57
+        },
+        {
+          "id": "7444356f-5abc-446d-8971-26e7d8ab26f9",
+          "type": "debit",
+          "timestamp": "2016-11-16T22:23:03.479Z",
+          "currency": "AUD",
+          "amount": 37.02,
+          "balanceBefore": 379.84,
+          "balanceAfter": 342.82
+        },
+        {
+          "id": "6e4547e8-e4e1-4afe-8af7-793ed8b06ab2",
+          "type": "credit",
+          "timestamp": "2016-11-16T11:02:50.175Z",
+          "currency": "AUD",
+          "amount": 63.23,
+          "balanceBefore": 316.61,
+          "balanceAfter": 379.84
+        },
+        {
+          "id": "4f229aa6-ac17-4ae8-bbcc-546b3cf43855",
+          "type": "credit",
+          "timestamp": "2016-11-15T01:37:52.034Z",
+          "currency": "AUD",
+          "amount": 7.68,
+          "balanceBefore": 308.93,
+          "balanceAfter": 316.61
+        },
+        {
+          "id": "36ec28a0-934e-4678-b9da-851952b9f9ba",
+          "type": "debit",
+          "timestamp": "2016-11-14T01:33:26.264Z",
+          "currency": "AUD",
+          "amount": 10.88,
+          "balanceBefore": 319.81,
+          "balanceAfter": 308.93
+        },
+        {
+          "id": "eceb027a-da9e-4a2f-98b0-1220675d333a",
+          "type": "credit",
+          "timestamp": "2016-11-13T11:20:02.988Z",
+          "currency": "AUD",
+          "amount": 62.37,
+          "balanceBefore": 257.44,
+          "balanceAfter": 319.81
+        },
+        {
+          "id": "725dfc71-326f-4739-927e-067a7f6be726",
+          "type": "debit",
+          "timestamp": "2016-11-12T00:05:51.668Z",
+          "currency": "AUD",
+          "amount": 2.98,
+          "balanceBefore": 260.42,
+          "balanceAfter": 257.44
+        },
+        {
+          "id": "3c7fa625-1658-4266-971d-42a3c2cf9fc6",
+          "type": "credit",
+          "timestamp": "2016-11-11T15:52:29.681Z",
+          "currency": "AUD",
+          "amount": 53.34,
+          "balanceBefore": 207.08,
+          "balanceAfter": 260.42
+        },
+        {
+          "id": "59f940f2-1f29-49c5-ab88-5c73f8191bad",
+          "type": "debit",
+          "timestamp": "2016-11-10T00:56:30.722Z",
+          "currency": "AUD",
+          "amount": 45.24,
+          "balanceBefore": 252.32,
+          "balanceAfter": 207.08
+        },
+        {
+          "id": "9f751426-4d1d-488d-90f1-a7b46c61c02b",
+          "type": "credit",
+          "timestamp": "2016-11-09T08:52:26.484Z",
+          "currency": "AUD",
+          "amount": 6.71,
+          "balanceBefore": 245.61,
+          "balanceAfter": 252.32
+        },
+        {
+          "id": "e08fee9c-a866-4459-9c44-e89c7ecb41da",
+          "type": "credit",
+          "timestamp": "2016-11-08T05:25:38.314Z",
+          "currency": "AUD",
+          "amount": 2.68,
+          "balanceBefore": 242.93,
+          "balanceAfter": 245.61
+        },
+        {
+          "id": "a3462a64-b854-4b98-aba1-f1262b60f05d",
+          "type": "credit",
+          "timestamp": "2016-11-07T05:34:05.957Z",
+          "currency": "AUD",
+          "amount": 67.38,
+          "balanceBefore": 175.55,
+          "balanceAfter": 242.93
+        },
+        {
+          "id": "c0219c3e-4a69-4194-8c93-fd8c274860e0",
+          "type": "debit",
+          "timestamp": "2016-11-06T15:17:13.304Z",
+          "currency": "AUD",
+          "amount": 30.5,
+          "balanceBefore": 206.05,
+          "balanceAfter": 175.55
+        },
+        {
+          "id": "ac661538-c9ed-4260-a3cb-069b86226e48",
+          "type": "debit",
+          "timestamp": "2016-11-04T18:29:40.694Z",
+          "currency": "AUD",
+          "amount": 48.07,
+          "balanceBefore": 254.12,
+          "balanceAfter": 206.05
+        },
+        {
+          "id": "5f7fb2f4-ce6d-4223-83f4-f27564ff8092",
+          "type": "credit",
+          "timestamp": "2016-11-03T22:04:44.724Z",
+          "currency": "AUD",
+          "amount": 69.3,
+          "balanceBefore": 184.82,
+          "balanceAfter": 254.12
+        },
+        {
+          "id": "6157785c-2ceb-4ad4-b289-1245e0d4b79a",
+          "type": "debit",
+          "timestamp": "2016-11-02T19:43:16.815Z",
+          "currency": "AUD",
+          "amount": 29.78,
+          "balanceBefore": 214.6,
+          "balanceAfter": 184.82
+        },
+        {
+          "id": "ba2b0f32-28b5-4033-91b5-96d87bb2fdc6",
+          "type": "credit",
+          "timestamp": "2016-11-02T12:57:17.169Z",
+          "currency": "AUD",
+          "amount": 43.03,
+          "balanceBefore": 171.57,
+          "balanceAfter": 214.6
+        },
+        {
+          "id": "c59578c2-b45e-44cc-ae49-111d0721768c",
+          "type": "debit",
+          "timestamp": "2016-11-01T06:35:53.598Z",
+          "currency": "AUD",
+          "amount": 44.49,
+          "balanceBefore": 216.06,
+          "balanceAfter": 171.57
+        },
+        {
+          "id": "ddad8c09-f9c2-4a21-86cb-21ec20d6689e",
+          "type": "debit",
+          "timestamp": "2016-10-31T03:39:30.665Z",
+          "currency": "AUD",
+          "amount": 34.15,
+          "balanceBefore": 250.21,
+          "balanceAfter": 216.06
+        },
+        {
+          "id": "9b306787-5a20-41c8-9ed3-1b4253f62e04",
+          "type": "debit",
+          "timestamp": "2016-10-30T02:17:08.761Z",
+          "currency": "AUD",
+          "amount": 50.26,
+          "balanceBefore": 300.47,
+          "balanceAfter": 250.21
+        },
+        {
+          "id": "9c6551c2-b3f8-465b-84ad-057148f806bc",
+          "type": "debit",
+          "timestamp": "2016-10-29T03:31:09.758Z",
+          "currency": "AUD",
+          "amount": 38.15,
+          "balanceBefore": 338.62,
+          "balanceAfter": 300.47
+        },
+        {
+          "id": "ec12ba4d-ebc8-4063-bc42-fa341a047207",
+          "type": "credit",
+          "timestamp": "2016-10-28T12:54:26.964Z",
+          "currency": "AUD",
+          "amount": 44.97,
+          "balanceBefore": 293.65,
+          "balanceAfter": 338.62
+        },
+        {
+          "id": "850250a8-866e-4674-b5bc-16a61f17df9a",
+          "type": "debit",
+          "timestamp": "2016-10-27T07:19:33.362Z",
+          "currency": "AUD",
+          "amount": 30.98,
+          "balanceBefore": 324.63,
+          "balanceAfter": 293.65
+        },
+        {
+          "id": "6fda9b6f-1b22-4fb8-9652-0227341f3ca7",
+          "type": "credit",
+          "timestamp": "2016-10-25T22:26:29.076Z",
+          "currency": "AUD",
+          "amount": 9.99,
+          "balanceBefore": 314.64,
+          "balanceAfter": 324.63
+        },
+        {
+          "id": "a5bde0de-7c73-4934-a8ad-e79647c5e72e",
+          "type": "credit",
+          "timestamp": "2016-10-24T16:52:40.881Z",
+          "currency": "AUD",
+          "amount": 61.92,
+          "balanceBefore": 252.72,
+          "balanceAfter": 314.64
+        },
+        {
+          "id": "7a61ed65-7d23-4364-aa6c-22328a844d30",
+          "type": "debit",
+          "timestamp": "2016-10-24T09:21:49.759Z",
+          "currency": "AUD",
+          "amount": 9.97,
+          "balanceBefore": 262.69,
+          "balanceAfter": 252.72
+        },
+        {
+          "id": "98f563db-5b7c-4f0e-844d-1d4e15f25b1d",
+          "type": "debit",
+          "timestamp": "2016-10-23T02:32:18.181Z",
+          "currency": "AUD",
+          "amount": 21.32,
+          "balanceBefore": 284.01,
+          "balanceAfter": 262.69
+        },
+        {
+          "id": "bff1f852-6a8b-4824-97e9-1696ec9bc32f",
+          "type": "credit",
+          "timestamp": "2016-10-22T04:01:46.394Z",
+          "currency": "AUD",
+          "amount": 9.4,
+          "balanceBefore": 274.61,
+          "balanceAfter": 284.01
+        },
+        {
+          "id": "17a073e1-9e8a-4a74-8c64-86d406849969",
+          "type": "credit",
+          "timestamp": "2016-10-21T14:12:11.737Z",
+          "currency": "AUD",
+          "amount": 49.88,
+          "balanceBefore": 224.73,
+          "balanceAfter": 274.61
+        },
+        {
+          "id": "c5564340-78da-49a2-8b2a-e389da81ecd1",
+          "type": "credit",
+          "timestamp": "2016-10-20T04:42:23.978Z",
+          "currency": "AUD",
+          "amount": 38.79,
+          "balanceBefore": 185.94,
+          "balanceAfter": 224.73
+        },
+        {
+          "id": "55c7b28e-569d-4393-9761-5643f1f24d44",
+          "type": "credit",
+          "timestamp": "2016-10-19T06:42:10.200Z",
+          "currency": "AUD",
+          "amount": 51.78,
+          "balanceBefore": 134.16,
+          "balanceAfter": 185.94
+        },
+        {
+          "id": "0fc68f5f-4bee-4a32-8656-0252d7cc606c",
+          "type": "credit",
+          "timestamp": "2016-10-18T02:54:45.819Z",
+          "currency": "AUD",
+          "amount": 51.6,
+          "balanceBefore": 82.56,
+          "balanceAfter": 134.16
+        },
+        {
+          "id": "c4072b70-67c6-4a19-883e-9c79a2215209",
+          "type": "debit",
+          "timestamp": "2016-10-17T08:10:01.740Z",
+          "currency": "AUD",
+          "amount": 34.28,
+          "balanceBefore": 116.84,
+          "balanceAfter": 82.56
+        },
+        {
+          "id": "2b213d28-3784-41c1-808b-6ce499f7c035",
+          "type": "credit",
+          "timestamp": "2016-10-16T08:08:27.095Z",
+          "currency": "AUD",
+          "amount": 49.98,
+          "balanceBefore": 66.86,
+          "balanceAfter": 116.84
+        },
+        {
+          "id": "98feb5d2-7017-4e1c-bd82-1892ecb8994d",
+          "type": "credit",
+          "timestamp": "2016-10-15T08:43:07.152Z",
+          "currency": "AUD",
+          "amount": 10.79,
+          "balanceBefore": 56.07,
+          "balanceAfter": 66.86
+        },
+        {
+          "id": "076e759d-3344-45c7-bfea-5ddfe2f10fe6",
+          "type": "credit",
+          "timestamp": "2016-10-14T03:35:19.392Z",
+          "currency": "AUD",
+          "amount": 13.3,
+          "balanceBefore": 42.77,
+          "balanceAfter": 56.07
+        },
+        {
+          "id": "3d77c144-83b5-4386-b5dd-7e2011c476b8",
+          "type": "debit",
+          "timestamp": "2016-10-13T10:50:16.907Z",
+          "currency": "AUD",
+          "amount": 28.57,
+          "balanceBefore": 71.34,
+          "balanceAfter": 42.77
+        },
+        {
+          "id": "999c31f5-01ef-4ed9-a744-92d8b6a144e1",
+          "type": "debit",
+          "timestamp": "2016-10-11T19:45:29.741Z",
+          "currency": "AUD",
+          "amount": 28.41,
+          "balanceBefore": 99.75,
+          "balanceAfter": 71.34
+        },
+        {
+          "id": "6ba6982c-8eef-4066-91b2-37ea0b95cf29",
+          "type": "debit",
+          "timestamp": "2016-10-10T18:45:07.318Z",
+          "currency": "AUD",
+          "amount": 28.41,
+          "balanceBefore": 128.16,
+          "balanceAfter": 99.75
+        },
+        {
+          "id": "062e14ef-be96-4bf5-96d9-80bc3f1ea9c8",
+          "type": "debit",
+          "timestamp": "2016-10-09T20:28:33.369Z",
+          "currency": "AUD",
+          "amount": 22.27,
+          "balanceBefore": 150.43,
+          "balanceAfter": 128.16
+        },
+        {
+          "id": "064d2b66-dc17-49af-bcce-25d352caf659",
+          "type": "debit",
+          "timestamp": "2016-10-09T14:11:52.002Z",
+          "currency": "AUD",
+          "amount": 39.8,
+          "balanceBefore": 190.23,
+          "balanceAfter": 150.43
+        },
+        {
+          "id": "13adea18-c355-412a-811a-7f60c17f7ac2",
+          "type": "credit",
+          "timestamp": "2016-10-08T12:16:30.220Z",
+          "currency": "AUD",
+          "amount": 9.34,
+          "balanceBefore": 180.89,
+          "balanceAfter": 190.23
+        },
+        {
+          "id": "474c1487-08fa-49ec-9a1e-85a90300a896",
+          "type": "debit",
+          "timestamp": "2016-10-06T16:20:19.708Z",
+          "currency": "AUD",
+          "amount": 12.64,
+          "balanceBefore": 193.53,
+          "balanceAfter": 180.89
+        },
+        {
+          "id": "fd20be94-0ced-4554-a732-fb7a5a5ec2f3",
+          "type": "debit",
+          "timestamp": "2016-10-06T06:16:33.225Z",
+          "currency": "AUD",
+          "amount": 40.64,
+          "balanceBefore": 234.17,
+          "balanceAfter": 193.53
+        },
+        {
+          "id": "731a5050-fb03-48a0-9afa-a6fe059da31b",
+          "type": "credit",
+          "timestamp": "2016-10-05T05:22:05.508Z",
+          "currency": "AUD",
+          "amount": 20.29,
+          "balanceBefore": 213.88,
+          "balanceAfter": 234.17
+        },
+        {
+          "id": "4e19f99e-4e10-46fa-aaf0-9e6eb945187d",
+          "type": "credit",
+          "timestamp": "2016-10-04T12:06:47.487Z",
+          "currency": "AUD",
+          "amount": 64.4,
+          "balanceBefore": 149.48,
+          "balanceAfter": 213.88
+        },
+        {
+          "id": "fc985f23-aac6-4bfe-a6ec-1b05eacb329b",
+          "type": "debit",
+          "timestamp": "2016-10-03T10:06:06.375Z",
+          "currency": "AUD",
+          "amount": 12.56,
+          "balanceBefore": 162.04,
+          "balanceAfter": 149.48
+        },
+        {
+          "id": "242048af-a6d6-42f4-9449-92052abf82d1",
+          "type": "credit",
+          "timestamp": "2016-10-02T07:14:25.557Z",
+          "currency": "AUD",
+          "amount": 70.68,
+          "balanceBefore": 91.36,
+          "balanceAfter": 162.04
+        },
+        {
+          "id": "069d4add-21b5-4058-9415-0305f2c5a918",
+          "type": "credit",
+          "timestamp": "2016-10-01T06:57:07.210Z",
+          "currency": "AUD",
+          "amount": 44.52,
+          "balanceBefore": 46.84,
+          "balanceAfter": 91.36
+        },
+        {
+          "id": "feefaebd-d1ba-4eb4-bacd-8c4ec6bd240c",
+          "type": "credit",
+          "timestamp": "2016-09-30T06:50:34.664Z",
+          "currency": "AUD",
+          "amount": 32.74,
+          "balanceBefore": 14.1,
+          "balanceAfter": 46.84
+        },
+        {
+          "id": "206768bc-3d94-40e8-a8cd-79a6bae202ac",
+          "type": "debit",
+          "timestamp": "2016-09-29T17:10:22.111Z",
+          "currency": "AUD",
+          "amount": 45.26,
+          "balanceBefore": 59.36,
+          "balanceAfter": 14.1
+        },
+        {
+          "id": "3ae61922-8ea5-4b79-b01d-e75af7da13c0",
+          "type": "credit",
+          "timestamp": "2016-09-28T01:37:42.402Z",
+          "currency": "AUD",
+          "amount": 36.37,
+          "balanceBefore": 22.99,
+          "balanceAfter": 59.36
+        },
+        {
+          "id": "53294113-b89c-4a91-af0d-48531bef52e5",
+          "type": "debit",
+          "timestamp": "2016-09-27T01:01:56.319Z",
+          "currency": "AUD",
+          "amount": 28.56,
+          "balanceBefore": 51.55,
+          "balanceAfter": 22.99
+        },
+        {
+          "id": "d3ca3c03-4347-4a3a-94b9-8bffea16a439",
+          "type": "debit",
+          "timestamp": "2016-09-25T18:25:17.559Z",
+          "currency": "AUD",
+          "amount": 39,
+          "balanceBefore": 90.55,
+          "balanceAfter": 51.55
+        },
+        {
+          "id": "41275429-3ba3-4352-8dcc-8b7209dc31a9",
+          "type": "debit",
+          "timestamp": "2016-09-25T04:04:08.690Z",
+          "currency": "AUD",
+          "amount": 49.92,
+          "balanceBefore": 140.47,
+          "balanceAfter": 90.55
+        },
+        {
+          "id": "bcd39238-71d9-4f3e-af75-2dea564eeec7",
+          "type": "credit",
+          "timestamp": "2016-09-24T05:25:36.212Z",
+          "currency": "AUD",
+          "amount": 59.23,
+          "balanceBefore": 81.24,
+          "balanceAfter": 140.47
+        },
+        {
+          "id": "70a9e0de-cbce-4acb-9125-5d8014d4f9a9",
+          "type": "credit",
+          "timestamp": "2016-09-23T14:46:53.021Z",
+          "currency": "AUD",
+          "amount": 61.03,
+          "balanceBefore": 20.21,
+          "balanceAfter": 81.24
+        },
+        {
+          "id": "9a2e9a47-45cb-4fe9-83aa-a219d410d040",
+          "type": "debit",
+          "timestamp": "2016-09-22T10:48:15.287Z",
+          "currency": "AUD",
+          "amount": 27.46,
+          "balanceBefore": 47.67,
+          "balanceAfter": 20.21
+        },
+        {
+          "id": "eb62b67b-dd2d-4fc1-93f7-1cf011569e47",
+          "type": "credit",
+          "timestamp": "2016-09-20T20:11:57.682Z",
+          "currency": "AUD",
+          "amount": 48.6,
+          "balanceBefore": -0.93,
+          "balanceAfter": 47.67
+        },
+        {
+          "id": "ddd3f719-ec2b-494c-9269-c1f076489ea0",
+          "type": "debit",
+          "timestamp": "2016-09-20T09:18:10.466Z",
+          "currency": "AUD",
+          "amount": 37.45,
+          "balanceBefore": 36.52,
+          "balanceAfter": -0.93
+        },
+        {
+          "id": "6ae228fd-632b-4dc1-aa03-a5b9f674d83d",
+          "type": "credit",
+          "timestamp": "2016-09-19T10:53:15.987Z",
+          "currency": "AUD",
+          "amount": 41.08,
+          "balanceBefore": -4.56,
+          "balanceAfter": 36.52
+        },
+        {
+          "id": "f65bda3e-d8da-4eae-980b-ed9a3494a7e8",
+          "type": "debit",
+          "timestamp": "2016-09-18T15:18:30.207Z",
+          "currency": "AUD",
+          "amount": 4.56,
+          "balanceBefore": 0,
+          "balanceAfter": -4.56
+        },
+        {
+          "id": "a1a79141-a977-438e-ba6a-f8763c8e40ca",
+          "type": "credit",
+          "timestamp": "2016-09-16T17:53:12.081Z",
+          "currency": "AUD",
+          "amount": 0,
+          "balanceBefore": 0,
+          "balanceAfter": 0
+        }
+      ]
+    }
+  ]
+}

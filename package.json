@@ -1,0 +1,62 @@
+{
+  "name": "react-training-lib",
+  "version": "0.1.0",
+  "private": true,
+  "main": "dist/index.js",
+  "files": [
+    "dist",
+    "src"
+  ],
+  "dependencies": {
+    "lorem-ipsum": "^1.0.3",
+    "material-design-icons": "^3.0.1",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "react-markdown": "^2.4.2",
+    "react-mdl": "^1.7.2",
+    "roboto-fontface": "^0.6.0",
+    "uuid": "^2.0.3"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-core": "^6.18.2",
+    "babel-loader": "^6.2.7",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-react-app": "^1.0.0",
+    "body-parser": "^1.15.2",
+    "chai": "^3.5.0",
+    "chai-http": "^3.0.0",
+    "chokidar-cli": "1.2.0",
+    "express": "^4.14.0",
+    "express-jwt": "^5.1.0",
+    "gulp": "^3.9.1",
+    "gulp-debug": "^3.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-stylus": "^2.6.0",
+    "gulp-util": "^3.0.7",
+    "js-string-escape": "^1.0.1",
+    "jsesc": "^2.2.0",
+    "json-loader": "^0.5.4",
+    "jsonwebtoken": "^7.1.9",
+    "mocha": "^3.2.0",
+    "nodemon": "^1.11.0",
+    "npm-run-all": "^3.1.1",
+    "through2": "^2.0.1",
+    "webpack": "2.1.0-beta.21"
+  },
+  "scripts": {
+    "start": "npm run dev",
+    "dev": "npm run watch",
+    "serve:stub": "nodemon server/",
+    "test:stub": "mocha server/*.spec.js server/**/*.spec.js",
+    "watch": "npm-run-all --parallel watch:fetch-exercises watch:build:onchange",
+    "watch:fetch-exercises": "chokidar '../../instructions/*.md' -c 'npm run fetch-exercises' --initial --silent",
+    "watch:build": "chokidar 'src/**/*.js' 'src/**/*.styl' -c 'npm run build' --initial --silent",
+    "watch:build:onchange": "chokidar 'src/**/*.js' 'src/**/*.styl' -c 'npm run build' --silent",
+    "build": "npm-run-all fetch-exercises build:js build:css build:static-fixtures",
+    "build:js": "NODE_ENV=production babel src -d dist",
+    "build:css": "node scripts/build-css.js",
+    "build:static-fixtures": "node scripts/generate-static-fixtures.js",
+    "fetch-exercises": "node scripts/convert-exercises.js"
+  }
+}

@@ -1,0 +1,22 @@
+/* Overrides to allow for layout without drawer */
+
+div.mdl-layout__header-row {
+    padding: 0 40px;
+}
+
+div.mdl-layout__tab-bar {
+    padding-left: 30px;
+}
+
+@media screen and (max-width: 1024px) {
+    div.mdl-layout__header-row {
+        padding: 0 16px;
+    }
+    div.mdl-layout__tab-bar {
+        padding-left: 8px;
+    }
+}
+
+div.mdl-layout__tab-bar-left-button {
+    display: none;
+}

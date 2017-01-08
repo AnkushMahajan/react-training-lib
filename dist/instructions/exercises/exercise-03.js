@@ -1,0 +1,3 @@
+"use strict";
+
+module.exports = "# Exercise 3: Lifting State!\n---\n\nThis is a starting application template for working through the steps of Odecee\'s react training.\n\n## A. Steps\n\n---\n\n#### Step 1 - ...\n\n* Brief description of task.\n* link to wireframe\n* [link to learning resource](http://google.com)\n\n#### Step 2 - ...\n\n* Brief description of task.\n* link to wireframe\n* [link to learning resource](http://google.com)\n\n#### Step 3 - ...\n\n* Brief description of task.\n* link to wireframe\n* [link to learning resource](http://google.com)\n\n## B. Other Helpful Resources\n\n---\n\n#### [React Dev Tools - React Docs 🔗](https://github.com/facebook/react-devtools)\n";

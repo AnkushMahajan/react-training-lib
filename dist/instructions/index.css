@@ -1,0 +1,161 @@
+@media print {
+  .exercise-instructions *,
+  .exercise-instructions *:before,
+  .exercise-instructions *:after {
+    background: transparent !important;
+    color: #000 !important;
+    box-shadow: none !important;
+    text-shadow: none !important;
+  }
+  .exercise-instructions a,
+  .exercise-instructions a:visited {
+    text-decoration: none;
+  }
+  .exercise-instructions a[href]:after {
+    content: " (" attr(href) ")";
+  }
+  .exercise-instructions abbr[title]:after {
+    content: " (" attr(title) ")";
+  }
+  .exercise-instructions a[href^="#"]:after,
+  .exercise-instructions a[href^="javascript:"]:after {
+    content: "";
+  }
+  .exercise-instructions pre,
+  .exercise-instructions blockquote {
+    border: 1px solid #999;
+    page-break-inside: avoid;
+  }
+  .exercise-instructions thead {
+    display: table-header-group;
+  }
+  .exercise-instructions tr,
+  .exercise-instructions img {
+    page-break-inside: avoid;
+  }
+  .exercise-instructions img {
+    max-width: 100% !important;
+  }
+  .exercise-instructions p,
+  .exercise-instructions h2,
+  .exercise-instructions h3 {
+    orphans: 3;
+    widows: 3;
+  }
+  .exercise-instructions h2,
+  .exercise-instructions h3 {
+    page-break-after: avoid;
+  }
+}
+@media screen and (min-width: 32rem) and (max-width: 48rem) {
+  .exercise-instructions {
+    font-size: 15px;
+  }
+}
+@media screen and (min-width: 48rem) {
+  .exercise-instructions {
+    font-size: 16px;
+  }
+}
+.exercise-instructions {
+  font-weight: 300;
+  line-height: 1.85;
+  font-size: 12px;
+  color: #444;
+/* https://github.com/mrmrs/fluidity */
+}
+.exercise-instructions,
+.exercise-instructions h1,
+.exercise-instructions h2,
+.exercise-instructions h3,
+.exercise-instructions h4,
+.exercise-instructions h5,
+.exercise-instructions h6,
+.exercise-instructions p {
+  font-family: 'Open Sans', Helvetica, sans-serif;
+}
+.exercise-instructions p,
+.exercise-instructions .air-p {
+  font-size: 1rem;
+  margin-bottom: 1.3rem;
+}
+.exercise-instructions h1,
+.exercise-instructions .air-h1,
+.exercise-instructions h2,
+.exercise-instructions .air-h2,
+.exercise-instructions h3,
+.exercise-instructions .air-h3,
+.exercise-instructions h4,
+.exercise-instructions .air-h4 {
+  margin: 1.414rem 0 0.5rem;
+  font-weight: inherit;
+  line-height: 1.42;
+}
+.exercise-instructions h1,
+.exercise-instructions .air-h1 {
+  margin-top: 0;
+  font-size: 2.5rem;
+}
+.exercise-instructions h2,
+.exercise-instructions .air-h2 {
+  font-size: 1.999rem;
+}
+.exercise-instructions h3,
+.exercise-instructions .air-h3 {
+  font-size: 1.2rem;
+}
+.exercise-instructions h4,
+.exercise-instructions .air-h4 {
+  font-size: 1.414rem;
+}
+.exercise-instructions h5,
+.exercise-instructions .air-h5 {
+  font-size: 1.121rem;
+}
+.exercise-instructions h6,
+.exercise-instructions .air-h6 {
+  font-size: 0.88rem;
+}
+.exercise-instructions small,
+.exercise-instructions .air-small {
+  font-size: 0.707em;
+}
+.exercise-instructions img,
+.exercise-instructions canvas,
+.exercise-instructions iframe,
+.exercise-instructions video,
+.exercise-instructions svg,
+.exercise-instructions select,
+.exercise-instructions textarea {
+  max-width: 100%;
+}
+.exercise-instructions a,
+.exercise-instructions a:visited {
+  text-decoration: none;
+}
+.exercise-instructions a:hover,
+.exercise-instructions a:focus,
+.exercise-instructions a:active {
+  color: #2980b9;
+}
+.exercise-instructions pre {
+  background-color: #fafafa;
+  padding: 1rem;
+  text-align: left;
+  overflow-x: scroll;
+}
+.exercise-instructions blockquote {
+  margin: 0;
+  border-left: 5px solid #7a7a7a;
+  font-style: italic;
+  padding: 1.33em;
+  text-align: left;
+}
+.exercise-instructions ul,
+.exercise-instructions ol,
+.exercise-instructions li {
+  text-align: left;
+}
+.exercise-instructions p {
+  color: #777;
+}
